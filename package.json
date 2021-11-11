@@ -1,0 +1,32 @@
+{
+  "name": "autos-s4e",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "spell": "cspell *.{html,json,js,md,ts} src/*.{css,ts,js,svelte}",
+    "cc": "prettier --plugin-search-dir=. --check src",
+    "format": "prettier --plugin-search-dir=. --write src",
+    "predeploy": "yarn version --patch; yarn build",
+    "deploy": "cd dist; ln -s ../.vercel; vc --prod",
+    "open": "open https://autos-s4e.vercel.app"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "1.0.0-next.30",
+    "autoprefixer": "10.4.0",
+    "cssnano": "5.0.10",
+    "fetchql": "3.0.0",
+    "postcss": "8.3.11",
+    "postcss-load-config": "3.1.0",
+    "prettier": "2.4.1",
+    "prettier-plugin-svelte": "2.4.0",
+    "proto-tailwindcss-clrs": "0.0.61",
+    "source-map-js": "1.0.1",
+    "svelte": "3.44.1",
+    "svelte-preprocess": "4.9.8",
+    "tailwindcss": "2.2.19",
+    "vite": "2.6.14"
+  }
+}

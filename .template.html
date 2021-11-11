@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Svelte App VERSION</title>
+    <script>
+      var script_tag = document.createElement('script');
+      script_tag.setAttribute('type', 'module');
+      script_tag.setAttribute(
+        'src',
+        'https://unpkg.com/proto-ikon-loader-wc@VERSION/dist/proto-ikon-loader-wc/proto-ikon-loader-wc.esm.js',
+      );
+      document.head.appendChild(script_tag);
+
+      window.protoIkonFallback = 'pulse-icon';
+    </script>
+    <style>
+      .ikon {
+        height: 96px;
+        width: 96px;
+        min-height: 96px;
+        min-width: 96px;
+      }
+
+      @media (min-width: 500px) {
+        .ikon {
+          height: 144px;
+          width: 144px;
+        }
+      }
+
+      @media (min-width: 700px) {
+        .ikon {
+          height: 196px;
+          width: 196px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
