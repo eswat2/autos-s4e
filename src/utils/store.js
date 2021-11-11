@@ -48,8 +48,6 @@ const processData = next => {
       dealer.set(undefined);
     }
 
-    console.log('-- processData', indx, next, get(dealer));
-
     id.set(next.id);
     list.set(next.list);
     loading.set(false);
@@ -63,8 +61,6 @@ const processData = next => {
 const processPick = next => {
   const { list, pick, dealer } = state;
   const dealers = get(list);
-
-  console.log('-- processPick', next);
 
   if (dealers && next !== undefined) {
     pick.set(next);
