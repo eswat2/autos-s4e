@@ -1348,10 +1348,10 @@ pretty-hrtime@^1.0.3:
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha1-t+PqQkNaTJsnWdmeDyAesZWALuE=
 
-proto-tailwindcss-clrs@0.0.63:
-  version "0.0.63"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.63.tgz#d627ed7c365e5f176d7479549b56623bbf910f2c"
-  integrity sha512-BpJ0CCoOa0/bTq2rGH1Zqq0SIoSH/KHi4S0p/l/90gGJ61FDJoClbRnsR4F/wdshadW1zB1OfjLfgbGuQgSedQ==
+proto-tailwindcss-clrs@0.0.64:
+  version "0.0.64"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.64.tgz#ae22483b79ef6947f70a6d4e424e90d8dcc1865d"
+  integrity sha512-PLTplh4JwDNVoHdhVad8uSSaVIxm/yE/GNkJVRB0eo/pfNztc6W9TbY+raTNIqETE3pyg8cE8SXFJqmRp8R6YQ==
 
 purgecss@^4.0.3:
   version "4.0.3"
