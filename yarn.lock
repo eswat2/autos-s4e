@@ -1324,10 +1324,10 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0:
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.1.0.tgz#443f6a20ced6481a2bda4fa8532a6e55d789a2cb"
   integrity sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
 
-postcss@8.4.0, postcss@^8.1.6, postcss@^8.2.1, postcss@^8.3.8:
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.0.tgz#cd4c33af00a00ba93ccf6ae1219f57c5e5ab5234"
-  integrity sha512-BRMNx3Wy7UI89jN8H4ZVS5lQMPM2OSMkOkvDCSjwXa7PWTs24k7Lm55NXLbMbs070LvraXaxN5l1npSOS6wMVw==
+postcss@8.4.1, postcss@^8.1.6, postcss@^8.2.1, postcss@^8.3.8:
+  version "8.4.1"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.1.tgz#73051f825509ad1a716ef500108001bf3d1fa8f7"
+  integrity sha512-WqLs/TTzXdG+/A4ZOOK9WDZiikrRaiA+eoEb/jz2DT9KUhMNHgP7yKPO8vwi62ZCsb703Gwb7BMZwDzI54Y2Ag==
   dependencies:
     nanoid "^3.1.30"
     picocolors "^1.0.0"
@@ -1348,10 +1348,10 @@ pretty-hrtime@^1.0.3:
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha1-t+PqQkNaTJsnWdmeDyAesZWALuE=
 
-proto-tailwindcss-clrs@0.0.64:
-  version "0.0.64"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.64.tgz#ae22483b79ef6947f70a6d4e424e90d8dcc1865d"
-  integrity sha512-PLTplh4JwDNVoHdhVad8uSSaVIxm/yE/GNkJVRB0eo/pfNztc6W9TbY+raTNIqETE3pyg8cE8SXFJqmRp8R6YQ==
+proto-tailwindcss-clrs@0.0.65:
+  version "0.0.65"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.65.tgz#9ac3aef7f4eda34af1c856b3b502ff23b9756ce1"
+  integrity sha512-8NSpGfw8qxur09kQJV9nqxhd0Seg1HIGG6KrZU7HCeLIlM0Me+s9jH2LmhjEsDznwULpc/FE36MkzGutEUh2og==
 
 purgecss@^4.0.3:
   version "4.0.3"
