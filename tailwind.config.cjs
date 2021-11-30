@@ -10,6 +10,7 @@ module.exports = {
   theme: {
     extend: {
       spacing: {
+        '24px': '24px',
         '76p5': '19.125rem',
       },
     },
