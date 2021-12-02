@@ -6,13 +6,7 @@ module.exports = {
   },
   darkMode: false,
   purge: ['src/**/*.svelte'],
-  theme: {
-    extend: {
-      spacing: {
-        '24px': '24px',
-      },
-    },
-  },
+  theme: {},
   variants: {},
   plugins: [
     tw_clrs({
