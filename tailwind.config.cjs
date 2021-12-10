@@ -4,8 +4,7 @@ module.exports = {
   corePlugins: {
     preflight: false,
   },
-  darkMode: false,
-  purge: ['src/**/*.svelte'],
+  content: ['src/**/*.svelte'],
   theme: {},
   variants: {},
   plugins: [
