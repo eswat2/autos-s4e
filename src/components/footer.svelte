@@ -1,5 +1,5 @@
 <script>
-  const TW_VERSION = '3.0.0;
+  const TW_VERSION = '3.0.0';
 </script>
 
 <div class="flex flex-row mt-2 mb-4 mr-2">
