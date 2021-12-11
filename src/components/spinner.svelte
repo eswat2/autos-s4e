@@ -5,7 +5,7 @@
 </script>
 
 <svg
-  class="animate-spin text-clrs-navy"
+  class="animate-spin"
   width={size}
   height={size}
   fill="none"
