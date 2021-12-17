@@ -467,9 +467,9 @@ domutils@^2.8.0:
     domhandler "^4.2.0"
 
 electron-to-chromium@^1.4.17:
-  version "1.4.23"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.23.tgz#c8fa28db6354062bbd388e24d95c4a263fff5cac"
-  integrity sha512-q3tB59Api3+DMbLnDPkW/UBHBO7KTGcF+rDCeb0GAGyqFj562s6y+c/2tDKTS/y5lbC+JOvT4MSUALJLPqlcSA==
+  version "1.4.24"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.24.tgz#9cf8a92d5729c480ee47ff0aa5555f57467ae2fa"
+  integrity sha512-erwx5r69B/WFfFuF2jcNN0817BfDBdC4765kQ6WltOMuwsimlQo3JTEq0Cle+wpHralwdeX3OfAtw/mHxPK0Wg==
 
 entities@^2.0.0:
   version "2.2.0"
@@ -1219,10 +1219,10 @@ prettier@2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.78:
-  version "0.0.78"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.78.tgz#14b1cf15a52013dbc6e89c06f5fca33ef64218da"
-  integrity sha512-NJTFquUvbd1iJPg9v4OCa44ujJ/BWBLOYD61+n/z+HAtUHXJfc8ymZzn4Cw5sbN4GtCWRrhORF8BI5Xeg3qJEQ==
+proto-tailwindcss-clrs@0.0.79:
+  version "0.0.79"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.79.tgz#5df9bc6c0e17a0793ca43e4c0702a1a08605de5a"
+  integrity sha512-2COcBHSm7MnDgcFOizzkb4pFbAy7E18cZwMwXWtFegtAVQcpYw0EXDwKyFWfhbNm6pClMyPASg7SP3Fx2ZDHRw==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1401,10 +1401,10 @@ svgo@^2.7.0:
     picocolors "^1.0.0"
     stable "^0.1.8"
 
-tailwindcss@3.0.6:
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.6.tgz#1981a0bb55919c0af566c98870ab2ec672599efb"
-  integrity sha512-+CA2f09rbHFDsdQ1iDvsOGbF1tZFmyPoRhUeaF9/5FRT5GYObtp+UjTSCdmeDcu6T90bx4WAaOkddYFPBkjbAA==
+tailwindcss@3.0.7:
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.7.tgz#15936881f042a7eb8d6f2b6a454bac9f51181bbd"
+  integrity sha512-rZdKNHtC64jcQncLoWOuCzj4lQDTAgLtgK3WmQS88tTdpHh9OwLqULTQxI3tw9AMJsqSpCKlmcjW/8CSnni6zQ==
   dependencies:
     arg "^5.0.1"
     chalk "^4.1.2"
