@@ -1,0 +1,18 @@
+#!/bin/bash
+# ---------------------------------------------------------------------
+OUTPUT=src/utils/tw-version.ts
+
+if [ -f package.json ]
+then
+  LINE=`ack \"tailwindcss\" package.json`
+  PUBV=`echo $LINE | sed 's/^.*[^0-9]\([0-9]*\.[0-9]*\.[0-9]*\).*$/\1/'`
+
+  echo "// WARNING:  generated file..." > $OUTPUT
+  echo "const TW_VERSION = '$PUBV';" >> $OUTPUT
+  echo "" >> $OUTPUT
+  echo "export { TW_VERSION };" >> $OUTPUT
+  echo "export default TW_VERSION;" >> $OUTPUT
+
+  echo -- $OUTPUT
+fi
+

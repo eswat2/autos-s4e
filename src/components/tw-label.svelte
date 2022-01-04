@@ -1,5 +1,5 @@
 <script>
-  const TW_VERSION = "3.0.9"
+  import { TW_VERSION } from '../utils';
 </script>
 
 <span class="ml-auto align-top text-xs italic text-clrs-slate4">

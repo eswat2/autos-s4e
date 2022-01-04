@@ -7,8 +7,9 @@
   "repository": "eswat2/autos-s4e",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "twx": "sh .tw-version",
+    "dev": "yarn twx; vite",
+    "build": "yarn twx; yarn format; vite build",
     "serve": "vite preview",
     "spell": "cspell *.{html,json,js,md,ts} src/*.{css,ts,js,svelte}",
     "cc": "prettier --plugin-search-dir=. --check src",
