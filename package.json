@@ -26,7 +26,7 @@
     "postcss-load-config": "3.1.1",
     "prettier": "2.5.1",
     "prettier-plugin-svelte": "2.5.1",
-    "proto-tailwindcss-clrs": "0.0.83",
+    "proto-tailwindcss-clrs": "0.0.84",
     "source-map-js": "1.0.1",
     "svelte": "3.44.3",
     "svelte-preprocess": "4.10.1",
