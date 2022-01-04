@@ -1,0 +1,15 @@
+#!/bin/bash
+COMPONENT=autos-s4e
+INPUT=./src/styles/input.pcss
+OUTPUT=./src/styles/app.css
+
+if [ -f .tw-version ]
+then
+  sh .tw-version
+fi
+
+if [ -f $INPUT ]
+then
+  echo '--' $COMPONENT
+  npx tailwindcss -i $INPUT -o $OUTPUT $1
+fi

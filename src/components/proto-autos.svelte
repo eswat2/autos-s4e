@@ -9,7 +9,7 @@
   const { loading } = state;
 </script>
 
-<main id="app" class="ds1-main">
+<main class="ds1-main">
   <Eswat2 />
   <h1
     class={tw(
