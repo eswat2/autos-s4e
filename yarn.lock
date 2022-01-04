@@ -70,9 +70,9 @@
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
 "@types/node@*":
-  version "17.0.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.7.tgz#4a53d8332bb65a45470a2f9e2611f1ced637a5cb"
-  integrity sha512-1QUk+WAUD4t8iR+Oj+UgI8oJa6yyxaB8a8pHaC8uqM6RrS1qbL7bf3Pwl5rHv0psm2CuDErgho6v5N+G+5fwtQ==
+  version "17.0.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.8.tgz#50d680c8a8a78fe30abe6906453b21ad8ab0ad7b"
+  integrity sha512-YofkM6fGv4gDJq78g4j0mMuGMkZVxZDgtU0JRdx6FgiJDG+0fY0GKVolOV8WqVmEhLCXkQRjwDdKyPxJp/uucg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -1198,10 +1198,10 @@ prettier@2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.84:
-  version "0.0.84"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.84.tgz#7ca79840de4110d112d114a6b7e66cf4684e1bce"
-  integrity sha512-9cv4L3G46TmMXvznWmN8bKbziMUpNl0topOLhW1GD+T+S10olGpa7f4t5u9FMwscZ06xjIIQxWSwPs4LhZq0oQ==
+proto-tailwindcss-clrs@0.0.85:
+  version "0.0.85"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.85.tgz#745cd0a6ccd1708418cc9617a363d1d23140f3f6"
+  integrity sha512-LMm0IkbSqYm8LbqaK32xIegdTSQGq4YU4PdxSX1bokTizJgHZUOHZRznZnA+JpVfRDa64UXOCuvO2PHuB+6FSA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1374,10 +1374,10 @@ svgo@^2.7.0:
     picocolors "^1.0.0"
     stable "^0.1.8"
 
-tailwindcss@3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.9.tgz#6755dba95dfa092d14f304ff47703a28c2c07138"
-  integrity sha512-X8TVifxDWfiNXInOeBofTteXAtZ5f0HnLs/uV4jDQNShc33Jb7qjYbk4VwI365rWAzcqYTks+9kesf3xH7Y35A==
+tailwindcss@3.0.10:
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.10.tgz#be83322644353b053fe8581f8f2413e958d7e11b"
+  integrity sha512-dSKGNqI6hyzY8CPX0GsYTZ9yTxGesHrNFPIANTBe8bQWNHGTsAd7PoZQ+HTaIQb/we3zaZfa4F487WCCvhBGbw==
   dependencies:
     arg "^5.0.1"
     chalk "^4.1.2"
