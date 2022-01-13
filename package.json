@@ -25,10 +25,10 @@
     "fetchql": "3.0.0",
     "postcss": "8.4.5",
     "prettier": "2.5.1",
-    "prettier-plugin-svelte": "2.5.1",
+    "prettier-plugin-svelte": "2.6.0",
     "proto-tailwindcss-clrs": "0.0.89",
     "svelte": "3.46.1",
     "tailwindcss": "3.0.13",
-    "vite": "2.7.10"
+    "vite": "2.7.11"
   }
 }
