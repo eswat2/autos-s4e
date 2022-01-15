@@ -747,10 +747,10 @@ prettier@2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.91:
-  version "0.0.91"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.91.tgz#6cc9bee99c66af75055e0ef2d79c84004d4636b1"
-  integrity sha512-zIHnxpRkd7YzUrezWOeSJMixHnR+Be0wI5itu4Iz3wTGldDfOFH8XGqOsctQn3u0fib0vA2sUW0kWIvy9suZQw==
+proto-tailwindcss-clrs@0.0.92:
+  version "0.0.92"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.92.tgz#a78ffc0deb22e9852cc149b8d2e0aaac9889641b"
+  integrity sha512-u2YFad70cK7MgZD/XzoyveE9eSA/c0N10hVdImHjxGX1xaDWgh0SQoGqREqyBpjrlT1U7OJVy6GwC2l7RhSsjQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -886,10 +886,10 @@ svelte@3.46.2:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.2.tgz#f0ffbffaea3a9a760edcbefc0902b41998a686ad"
   integrity sha512-RXSAtYNefe01Sb1lXtZ2I+gzn3t/h/59hoaRNeRrm8IkMIu6BSiAkbpi41xb+C44x54YKnbk9+dtfs3pM4hECA==
 
-tailwindcss@3.0.14:
-  version "3.0.14"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.14.tgz#207dc80351ac6a0746799be3ef2af836c9eea3c5"
-  integrity sha512-7VTZJVMY9iTZhGsiTC9d3gWk+tSJz8iKZoxd5mvO0w4n0lulzVPYEOiwKcz5h8M/rNhlpymU7Ix5519Tl5wrfA==
+tailwindcss@3.0.15:
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.15.tgz#e4db219771eb7678a3bfd97b3f6c8fe20be0a410"
+  integrity sha512-bT2iy7FtjwgsXik4ZoJnHXR+SRCiGR1W95fVqpLZebr64m4ahwUwRbIAc5w5+2fzr1YF4Ct2eI7dojMRRl8sVQ==
   dependencies:
     arg "^5.0.1"
     chalk "^4.1.2"
