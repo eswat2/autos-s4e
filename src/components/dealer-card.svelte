@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="flex flex-wrap content-center bg-blue-200 rounded-lg p-4 mb-4 border border-solid border-blue-400"
+  class="mb-4 flex flex-wrap content-center rounded-lg border border-solid border-blue-400 bg-blue-200 p-4"
 >
   {#if dealer && dealer.name}
     <span class="text-xl font-bold">
@@ -14,7 +14,7 @@
     </span>
   {/if}
   {#if dealer.dealerId}
-    <span class="text-sm text-right ml-auto self-center">
+    <span class="ml-auto self-center text-right text-sm">
       {dealer.dealerId}
     </span>
   {/if}

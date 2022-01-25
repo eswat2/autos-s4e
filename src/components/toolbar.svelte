@@ -7,7 +7,7 @@
 {#if !$loading}
   <div class="flex">
     <div
-      class="refresh md:w-auto hover:text-clrs-red"
+      class="refresh hover:text-clrs-red md:w-auto"
       on:click={() => actions.refresh()}
     >
       <proto-ikon-loader name="refresh" size="24" />

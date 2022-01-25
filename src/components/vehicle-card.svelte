@@ -39,10 +39,10 @@
         : 'bg-gray-300 border-gray-600',
     )}
   >
-    <div class="flex flex-col mr-1.5">
-      <span class="text-xs mb-2">{value.vin}</span>
+    <div class="mr-1.5 flex flex-col">
+      <span class="mb-2 text-xs">{value.vin}</span>
       <span class="text-lg font-bold">{value.make}</span>
-      <span class="text-sm italic mb-2">{value.model}</span>
+      <span class="mb-2 text-sm italic">{value.model}</span>
       <span>
         {value.year}, {value.color}
       </span>
