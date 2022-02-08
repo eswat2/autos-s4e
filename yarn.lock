@@ -636,9 +636,9 @@ nanoid@^3.2.0:
   integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 node-releases@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.1.tgz#3d1d395f204f1f2f29a54358b9fb678765ad2fc5"
-  integrity sha512-CqyzN6z7Q6aMeF/ktcMVTzhAHCEpf8SOarwpzpf8pNBY2k5/oM34UHldUwp8VKI7uxct2HxSRdJjBaZeESzcxA==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.2.tgz#7139fe71e2f4f11b47d4d2986aaf8c48699e0c01"
+  integrity sha512-XxYDdcQ6eKqp/YjI+tb2C5WM2LgjnZrfYg4vgQt49EK268b6gYCHsBLrK2qvJo4FmCtqmKezb0WZFK4fkrZNsg==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
@@ -741,20 +741,20 @@ prettier-plugin-svelte@2.6.0:
   resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.6.0.tgz#0e845b560b55cd1d951d6c50431b4949f8591746"
   integrity sha512-NPSRf6Y5rufRlBleok/pqg4+1FyGsL0zYhkYP6hnueeL1J/uCm3OfOZPsLX4zqD9VAdcXfyEL2PYqGv8ZoOSfA==
 
-prettier-plugin-tailwindcss@0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.5.tgz#1709b4cea44873cbfefe9862f9f0827a51fe8cc3"
-  integrity sha512-e+jTxwiHL4I3Ot8OjV1LAiiaAx0Zgy71xTL7xNmJtNmhpja7GKzFSAoulqBDS1D57B7lbZDCvDEKIWIQSBUmBQ==
+prettier-plugin-tailwindcss@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.6.tgz#a086682c16ba51629d068a3eb153662be5987e52"
+  integrity sha512-7OcFAv6d41KV61cDdn+mZycddAXQhv/B2yfA7ooK/yXPnBJf51Lx7iODOOQwOoMzSJQ/MJNqlK3BxqT9gDKVLA==
 
 prettier@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.103:
-  version "0.0.103"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.103.tgz#157acdaa8b404a344db1dada311e014af3193f76"
-  integrity sha512-EqLgMt5Mlh2pbxV/XR7X8d7c7Cp9IuhXZOya39u5wDtn21yA367+HUJgI915ErnnyGRSJii6ZiPiPktBEhrf/A==
+proto-tailwindcss-clrs@0.0.104:
+  version "0.0.104"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.104.tgz#dac7bd151bd25e514fd989c75689f46b6bd80ab4"
+  integrity sha512-/uH2wjA8QXUfTWoAVoIY5XfBeru4DousrpcqIykGmhrPpl6yuradS+9XcTZvXJiDwzpBpLQAm0tfnfgNTin/UA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
