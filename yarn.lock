@@ -753,7 +753,7 @@ prettier-plugin-svelte@2.6.0:
   resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.6.0.tgz#0e845b560b55cd1d951d6c50431b4949f8591746"
   integrity sha512-NPSRf6Y5rufRlBleok/pqg4+1FyGsL0zYhkYP6hnueeL1J/uCm3OfOZPsLX4zqD9VAdcXfyEL2PYqGv8ZoOSfA==
 
-prettier-plugin-tailwindcss@0.1.7:
+prettier-plugin-tailwindcss@0.1.7, prettier-plugin-tailwindcss@^0.1.7:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.7.tgz#f51de7b7bbabaa0724d3aff7a62957e5aa873482"
   integrity sha512-tmBr45hCLuit2Cz9Pwow0/Jl1bGivYGsfcF29O+3sKcE++ybjz9dfie565S3ZsvAeV8uYer9SRMBWDsHPly2Lg==
@@ -763,10 +763,10 @@ prettier@2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.105:
-  version "0.0.105"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.105.tgz#22ba576244e34157157b23efb55ba87d0978f46c"
-  integrity sha512-gXWcc2LJyh5VgeBO8zVFH2rGVoT8JuNF/0W6h1j/qnrx83SQTEUPmbzWxqYx/aEdi65dC1WA0hpvyqPxKgg/nQ==
+proto-tailwindcss-clrs@0.0.106:
+  version "0.0.106"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.106.tgz#a5dda82dc6184505af969029ed57cc351f8e5dfe"
+  integrity sha512-/g4vwT/4dDewWjHueWBArK/ifaN2DvBbvqX5RttkcWOLqL7x9xR/QhpNUgqHegUIOjyAudS8IKqaACY2lAyb4A==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -897,10 +897,10 @@ svelte@3.46.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.4.tgz#0c46bc4a3e20a2617a1b7dc43a722f9d6c084a38"
   integrity sha512-qKJzw6DpA33CIa+C/rGp4AUdSfii0DOTCzj/2YpSKKayw5WGSS624Et9L1nU1k2OVRS9vaENQXp2CVZNU+xvIg==
 
-tailwindcss@3.0.19:
-  version "3.0.19"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.19.tgz#cd789953e6762af2e80c5a3e5d6da3a975ee8215"
-  integrity sha512-rjsdfz/qZya5xQ0OVynEMETgWq1CacmftgMYeXXh6bRM5vxsNwRSbMJsCCIjq/w67om9VP/AFMolOwiE+5VKig==
+tailwindcss@3.0.20:
+  version "3.0.20"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.20.tgz#e2b96f9c99ef68e1c9101d115673f6005cf56643"
+  integrity sha512-Mdo5XMsEkHhZNgh8NzXOEwI9L4WAS9NnnhCWbWWhVDaNZ1bqcHvbybosbmW6CetrCuCgMtDeByQq4trSka7irQ==
   dependencies:
     arg "^5.0.1"
     chalk "^4.1.2"
@@ -920,6 +920,7 @@ tailwindcss@3.0.19:
     postcss-nested "5.0.6"
     postcss-selector-parser "^6.0.9"
     postcss-value-parser "^4.2.0"
+    prettier-plugin-tailwindcss "^0.1.7"
     quick-lru "^5.1.1"
     resolve "^1.22.0"
 
