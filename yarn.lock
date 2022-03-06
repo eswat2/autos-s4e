@@ -301,9 +301,9 @@ dlv@^1.1.3:
   integrity sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==
 
 electron-to-chromium@^1.4.71:
-  version "1.4.75"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.75.tgz#d1ad9bb46f2f1bf432118c2be21d27ffeae82fdd"
-  integrity sha512-LxgUNeu3BVU7sXaKjUDD9xivocQLxFtq6wgERrutdY/yIOps3ODOZExK1jg8DTEg4U8TUCb5MLGeWFOYuxjF3Q==
+  version "1.4.76"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.76.tgz#a0494baedaf51094b1c172999919becd9975a934"
+  integrity sha512-3Vftv7cenJtQb+k00McEBZ2vVmZ/x+HEF7pcZONZIkOsESqAqVuACmBxMv0JhzX7u0YltU0vSqRqgBSTAhFUjA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -489,9 +489,9 @@ fill-range@^7.0.1:
     to-regex-range "^5.0.1"
 
 fraction.js@^4.1.2:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.1.3.tgz#be65b0f20762ef27e1e793860bc2dfb716e99e65"
-  integrity sha512-pUHWWt6vHzZZiQJcM6S/0PXfS+g6FM4BF5rj9wZyreivhQPdsh5PpE25VtSNxq80wHS5RfY51Ii+8Z0Zl/pmzg==
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.2.0.tgz#448e5109a313a3527f5a3ab2119ec4cf0e0e2950"
+  integrity sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==
 
 fsevents@~2.3.2:
   version "2.3.2"
@@ -769,10 +769,10 @@ prettier@2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
-proto-tailwindcss-clrs@0.0.113:
-  version "0.0.113"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.113.tgz#cf8b4a3ea464132a2716e998afab97c0b54b9004"
-  integrity sha512-qXYeyOdXtofH7RGTZUeJkkD5VLegG0K46BUZB6Xt93wJ69g4HBqHRhXZRHXKb1tpea1pXVVFX1pl5i02kBdDxQ==
+proto-tailwindcss-clrs@0.0.114:
+  version "0.0.114"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.114.tgz#0d5ea0e6d8c6c9c54f501eefd2b43f5c73e4a1e2"
+  integrity sha512-i3YrJLmFS/gsNghMC7c506Ll5Hrb2zGHRRzewfy4bKZBYAsXp9EXQcjPttyf7XqeRUQCyz/7TrM1gyT396mFmg==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -816,9 +816,9 @@ reusify@^1.0.4:
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
 rollup@^2.59.0:
-  version "2.69.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.69.1.tgz#d37f8bf9c9d60018df58c5c9ec36705a7b90dc6e"
-  integrity sha512-xaQKTomUVZBopk38EIshM/kOoPFkKWisgBV7Emy80coP9MOSLUDrba1jKZhqH0iS5DoGcRbbcuyl/BzblV8w5w==
+  version "2.69.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.69.2.tgz#5e0f3b6d07b2a293bc4f4727315dcddb46a96b85"
+  integrity sha512-KghktpWg3Wd+nYCsx3Griidm2/CKIJYG2yyaaKspo0TXSoGdW+0duwzKl4wWIu62oN3mFg3zCDbwVRPwuNPPlA==
   optionalDependencies:
     fsevents "~2.3.2"
 
