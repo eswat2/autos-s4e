@@ -132,9 +132,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001373:
-  version "1.0.30001375"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001375.tgz#8e73bc3d1a4c800beb39f3163bf0190d7e5d7672"
-  integrity sha512-kWIMkNzLYxSvnjy0hL8w1NOaWNr2rn39RTAVyIwcw8juu60bZDWiF1/loOYANzjtJmy6qPgNmn38ro5Pygagdw==
+  version "1.0.30001376"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001376.tgz#af2450833e5a06873fbb030a9556ca9461a2736d"
+  integrity sha512-I27WhtOQ3X3v3it9gNs/oTpoE5KpwmqKR5oKPA8M0G7uMXh9Ty81Q904HpKUrM30ei7zfcL5jE7AXefgbOfMig==
 
 chalk@^4.1.0:
   version "4.1.2"
@@ -242,9 +242,9 @@ dlv@^1.1.3:
   integrity sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.217"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.217.tgz#f1f51b319435f4c1587a850806a0dfebe9774598"
-  integrity sha512-iX8GbAMij7cOtJPZo02CClpaPMWjvN5meqXiJXkBgwvraNWTNH0Z7F9tkznI34JRPtWASoPM/xWamq3oNb49GA==
+  version "1.4.219"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.219.tgz#a7a672304b6aa4f376918d3f63a47f2c3906009a"
+  integrity sha512-zoQJsXOUw0ZA0YxbjkmzBumAJRtr6je5JySuL/bAoFs0DuLiLJ+5FzRF7/ZayihxR2QcewlRZVm5QZdUhwjOgA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -658,10 +658,10 @@ prettier@2.7.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-proto-tailwindcss-clrs@0.0.154:
-  version "0.0.154"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.154.tgz#164349d8873e03ca2d6866200fd32513ce3f9217"
-  integrity sha512-rpyNjFjdp2uI4fFKU1kcGa4yeo4viYmTnlm/YadUyJAUx3ZrEx0iH3ID14R9uNl+B66XCxKqQFmuRs2S3tcgeg==
+proto-tailwindcss-clrs@0.0.155:
+  version "0.0.155"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.155.tgz#dfacebc41e2fac872b5a76850d5c08d94b6e8134"
+  integrity sha512-7wOAahhUbLNJsAfTh1HhM0v0CoTrqdC682Ly5Do+0+qr65gtazyfxVVe6HHC9FYVYUyaQ9pQb7jg6K5uqKz2Ew==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
