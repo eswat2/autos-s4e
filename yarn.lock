@@ -650,10 +650,10 @@ prettier@2.7.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-proto-tailwindcss-clrs@0.0.177:
-  version "0.0.177"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.177.tgz#0a1040da7b7b11142095d99c3383cba95de4fba2"
-  integrity sha512-4cyf21b4cqS6V3Oo1rXYvlo/o0fBAzGlDTnS+rxZI7Fdis18/3RoqNWY/9i/khqQc/XIFO/M9tTzDm55IBepLg==
+proto-tailwindcss-clrs@0.0.178:
+  version "0.0.178"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.178.tgz#ee40302f377998fd6ee31f61e56c55f408944aa9"
+  integrity sha512-IsvKeNxYdIg2Dz6h11Iiwpi6WEnSOWii5wvg+B5xWSynbmAZN+BGDCwcRd/NGanY2ufBPPs6ihY1F6d1f4+IHg==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -826,9 +826,9 @@ tree-kill@^1.2.2:
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 tslib@^2.1.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
-  integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
+  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 update-browserslist-db@^1.0.9:
   version "1.0.10"
