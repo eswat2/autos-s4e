@@ -128,9 +128,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001400, caniuse-lite@^1.0.30001426:
-  version "1.0.30001427"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001427.tgz#d3a749f74be7ae0671fbec3a4eea18576e8ad646"
-  integrity sha512-lfXQ73oB9c8DP5Suxaszm+Ta2sr/4tf8+381GkIm1MLj/YdLf+rEDyDSRCzeltuyTVGm+/s18gdZ0q+Wmp8VsQ==
+  version "1.0.30001429"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001429.tgz#70cdae959096756a85713b36dd9cb82e62325639"
+  integrity sha512-511ThLu1hF+5RRRt0zYCf2U2yRr9GPF6m5y90SBCWsvSoYoW7yAGlv/elyPaNfvGCkp6kj/KFZWU0BMA69Prsg==
 
 chalk@^4.1.0:
   version "4.1.2"
@@ -650,10 +650,10 @@ prettier@2.7.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-proto-tailwindcss-clrs@0.0.178:
-  version "0.0.178"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.178.tgz#ee40302f377998fd6ee31f61e56c55f408944aa9"
-  integrity sha512-IsvKeNxYdIg2Dz6h11Iiwpi6WEnSOWii5wvg+B5xWSynbmAZN+BGDCwcRd/NGanY2ufBPPs6ihY1F6d1f4+IHg==
+proto-tailwindcss-clrs@0.0.179:
+  version "0.0.179"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.179.tgz#0b3508398368e1ad09f94ac822d19b32723f91ff"
+  integrity sha512-8s9x/zqxPsr8KDU9bdHkC1s6V6rzBqsivOjc2Bi0jZrjEb2EbRLkMOYfphk24IqDejEWJP3s4NL3+5EBvkqheA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
