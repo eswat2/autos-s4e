@@ -24,7 +24,7 @@
     "concurrently": "7.6.0",
     "fetchql": "3.0.0",
     "postcss": "8.4.19",
-    "prettier": "2.7.1",
+    "prettier": "2.8.0",
     "prettier-plugin-svelte": "2.8.1",
     "prettier-plugin-tailwindcss": "0.1.13",
     "proto-tailwindcss-clrs": "0.0.188",
