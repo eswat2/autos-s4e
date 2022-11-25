@@ -13,9 +13,9 @@
   <Eswat2 />
   <h1
     class={tw(
-      'uppercase text-center text-clrs-red',
+      'text-center uppercase text-clrs-red',
       'mr-0 ml-0 mt-11 mb-11',
-      'font-thin text-6xl',
+      'text-6xl font-thin',
     )}
   >
     Auto Dealers

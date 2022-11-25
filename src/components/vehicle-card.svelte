@@ -28,15 +28,15 @@
   <div
     class={tw(
       'flex align-middle',
-      'rounded-lg p-4 mb-1',
+      'mb-1 rounded-lg p-4',
       'border border-solid',
       isExotic(value.year)
-        ? 'bg-clrs-navy border-clrs-navy text-clrs-white'
+        ? 'border-clrs-navy bg-clrs-navy text-clrs-white'
         : isRacing(value.model)
-        ? 'bg-yellow-300 border-yellow-600'
+        ? 'border-yellow-600 bg-yellow-300'
         : isModern(value.year)
-        ? 'bg-green-200 border-green-600'
-        : 'bg-gray-300 border-gray-600',
+        ? 'border-green-600 bg-green-200'
+        : 'border-gray-600 bg-gray-300',
     )}
   >
     <div class="mr-1.5 flex flex-col">

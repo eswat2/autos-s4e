@@ -14,7 +14,7 @@
     </div>
     <div
       class={tw(
-        'inline-flex justify-end ml-auto',
+        'ml-auto inline-flex justify-end',
         'border border-solid border-gray-600',
         'rounded-md',
       )}
@@ -23,15 +23,15 @@
         {#each $list as item, index}
           <button
             class={tw(
-              'border-none w-8 h-8 font-bold',
+              'h-8 w-8 border-none font-bold',
               index == 0
                 ? 'rounded-tl-md rounded-bl-md rounded-tr-none rounded-br-none'
                 : index == $list.length - 1
                 ? 'rounded-tl-none rounded-bl-none rounded-tr-md rounded-br-md'
                 : 'rounded-none',
               $pick == index
-                ? 'text-white bg-clrs-red'
-                : 'text-clrs-navy bg-clrs-yellow',
+                ? 'bg-clrs-red text-white'
+                : 'bg-clrs-yellow text-clrs-navy',
             )}
             on:click={() => actions.updatePick(index)}
             title={`${item.name} (${item.vehicles.length})`}
