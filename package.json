@@ -5,6 +5,7 @@
   "author": "eswat2",
   "license": "MIT",
   "repository": "eswat2/autos-s4e",
+  "type": "module",
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
     "twx": "sh ./.generate",
