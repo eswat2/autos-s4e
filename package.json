@@ -20,7 +20,7 @@
     "open": "open https://autos-s4e.vercel.app"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "2.0.2",
+    "@sveltejs/vite-plugin-svelte": "2.0.3",
     "autoprefixer": "10.4.13",
     "concurrently": "7.6.0",
     "fetchql": "3.0.0",
