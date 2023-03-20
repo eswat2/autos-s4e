@@ -1,6 +1,6 @@
 {
   "name": "autos-s4e",
-  "version": "0.0.522",
+  "version": "0.0.523",
   "description": "prototype - a simple GraphQL demo rendered with Svelte and Tailwind",
   "author": "eswat2",
   "license": "MIT",
