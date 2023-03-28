@@ -14,7 +14,7 @@
   <h1
     class={tw(
       'text-center uppercase text-clrs-red',
-      'mr-0 ml-0 mt-11 mb-11',
+      'mb-11 ml-0 mr-0 mt-11',
       'text-6xl font-thin',
     )}
   >
@@ -24,9 +24,9 @@
   {#if !$loading}
     <hr
       class={tw(
-        'ml-0 mr-0 mt-4 mb-4',
+        'mb-4 ml-0 mr-0 mt-4',
         'border-solid border-gray-300',
-        'border-r-0 border-b-0 border-l-0',
+        'border-b-0 border-l-0 border-r-0',
       )}
     />
   {:else}
