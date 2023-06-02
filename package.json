@@ -22,7 +22,7 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "2.4.1",
     "autoprefixer": "10.4.14",
-    "concurrently": "8.0.1",
+    "concurrently": "8.1.0",
     "fetchql": "3.0.0",
     "postcss": "8.4.24",
     "prettier": "2.8.8",
