@@ -12,8 +12,8 @@
     "start": "vite",
     "build": "yarn twx; yarn format; vite build",
     "serve": "vite preview",
-    "cc": "prettier --check './src/**/*.{css,pcss,js,ts}'",
-    "format": "prettier --write './src/**/*.{css,pcss,js,ts}'",
+    "cc": "prettier --check './src/**/*.{css,pcss,js,ts,svelte}'",
+    "format": "prettier --write './src/**/*.{css,pcss,js,ts,svelte}'",
     "spell": "cspell './**/*.js'",
     "predeploy": "yarn version --patch; yarn build",
     "deploy": "cd dist; ln -s ../.vercel; vc --prod",
@@ -26,10 +26,10 @@
     "fetchql": "3.0.0",
     "postcss": "8.4.26",
     "prettier": "3.0.0",
-    "prettier-plugin-svelte": "2.10.1",
+    "prettier-plugin-svelte": "3.0.0",
     "prettier-plugin-tailwindcss": "0.4.1",
     "proto-tailwindcss-clrs": "0.0.257",
-    "svelte": "4.0.5",
+    "svelte": "4.1.0",
     "tailwindcss": "3.3.3",
     "vite": "4.4.4"
   }
