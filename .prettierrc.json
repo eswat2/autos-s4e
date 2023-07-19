@@ -9,5 +9,5 @@
   "tabWidth": 2,
   "trailingComma": "all",
   "useTabs": false,
-  "plugins": [ "prettier-plugin-svelte" ]
+  "plugins": [ "prettier-plugin-svelte", "prettier-plugin-tailwindcss" ]
 }
