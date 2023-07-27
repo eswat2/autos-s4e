@@ -26,9 +26,9 @@
     "fetchql": "3.0.0",
     "postcss": "8.4.27",
     "prettier": "3.0.0",
-    "prettier-plugin-svelte": "3.0.1",
+    "prettier-plugin-svelte": "3.0.2",
     "prettier-plugin-tailwindcss": "0.4.1",
-    "proto-tailwindcss-clrs": "0.0.258",
+    "proto-tailwindcss-clrs": "0.0.259",
     "svelte": "4.1.1",
     "tailwindcss": "3.3.3",
     "vite": "4.4.7"
