@@ -31,6 +31,6 @@
     "proto-tailwindcss-clrs": "0.0.279",
     "svelte": "4.2.1",
     "tailwindcss": "3.3.3",
-    "vite": "4.4.11"
+    "vite": "4.5.0"
   }
 }
