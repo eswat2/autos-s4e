@@ -22,14 +22,14 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "2.4.6",
     "autoprefixer": "10.4.16",
-    "concurrently": "8.2.1",
+    "concurrently": "8.2.2",
     "fetchql": "3.0.0",
     "postcss": "8.4.31",
     "prettier": "3.0.3",
     "prettier-plugin-svelte": "3.0.3",
     "prettier-plugin-tailwindcss": "0.5.6",
     "proto-tailwindcss-clrs": "0.0.279",
-    "svelte": "4.2.1",
+    "svelte": "4.2.2",
     "tailwindcss": "3.3.3",
     "vite": "4.5.0"
   }
