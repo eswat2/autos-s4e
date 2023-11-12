@@ -444,9 +444,9 @@ dlv@^1.1.3:
   integrity sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==
 
 electron-to-chromium@^1.4.535:
-  version "1.4.580"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.580.tgz#2f8f70f70733a6be1fb6f31de1224e6dc4bb196d"
-  integrity sha512-T5q3pjQon853xxxHUq3ZP68ZpvJHuSMY2+BZaW3QzjS4HvNuvsMmZ/+lU+nCrftre1jFZ+OSlExynXWBihnXzw==
+  version "1.4.581"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.581.tgz#23b684c67bf56d4284e95598c05a5d266653b6d8"
+  integrity sha512-6uhqWBIapTJUxgPTCHH9sqdbxIMPt7oXl0VcAL1kOtlU6aECdcMncCrX5Z7sHQ/invtrC9jUQUef7+HhO8vVFw==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -862,10 +862,10 @@ prettier@3.0.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.0.3.tgz#432a51f7ba422d1469096c0fdc28e235db8f9643"
   integrity sha512-L/4pUDMxcNa8R/EthV08Zt42WBO4h1rarVtK0K+QJG0X187OLo7l699jWw0GKuwzkPQ//jMFA/8Xm6Fh3J/DAg==
 
-proto-tailwindcss-clrs@0.0.285:
-  version "0.0.285"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.285.tgz#d2564758a36d0ceaea76636abb6456b88bf3dee9"
-  integrity sha512-ZbqpTZp0M6CkMEFzDWhQqDUAI+PozQpQrV891NHaqqhsbwrP16JozagfmoaLjceI57zFm2Md9N87+JrWvFnpqA==
+proto-tailwindcss-clrs@0.0.286:
+  version "0.0.286"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.286.tgz#0ad5986a0247892b3f3a8aa06ec321f54702b7cc"
+  integrity sha512-gmN8p36o7vlXhy1n/iblonkHhiTygBF0mxxRpHX/8WTRmAinLYB7HOso1maYBOIPKwh5EQhr+cPF/NPnFu5s9g==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
