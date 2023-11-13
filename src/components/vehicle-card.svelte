@@ -33,10 +33,10 @@
       isExotic(value.year)
         ? 'border-clrs-navy bg-clrs-navy text-clrs-white'
         : isRacing(value.model)
-        ? 'border-yellow-600 bg-yellow-300'
-        : isModern(value.year)
-        ? 'border-green-600 bg-green-200'
-        : 'border-gray-600 bg-gray-300',
+          ? 'border-yellow-600 bg-yellow-300'
+          : isModern(value.year)
+            ? 'border-green-600 bg-green-200'
+            : 'border-gray-600 bg-gray-300',
     )}
   >
     <div class="mr-1.5 flex flex-col">
@@ -50,8 +50,8 @@
         {isExotic(value.year)
           ? '- exotic... [ Sierra 117 ]'
           : isRacing(value.model)
-          ? '- track only...'
-          : ''}
+            ? '- track only...'
+            : ''}
       </span>
     </div>
     <proto-ikon-loader

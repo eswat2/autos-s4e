@@ -27,8 +27,8 @@
               index == 0
                 ? 'rounded-bl-md rounded-br-none rounded-tl-md rounded-tr-none'
                 : index == $list.length - 1
-                ? 'rounded-bl-none rounded-br-md rounded-tl-none rounded-tr-md'
-                : 'rounded-none',
+                  ? 'rounded-bl-none rounded-br-md rounded-tl-none rounded-tr-md'
+                  : 'rounded-none',
               $pick == index
                 ? 'bg-clrs-red text-white'
                 : 'bg-clrs-yellow text-clrs-navy',
