@@ -938,10 +938,10 @@ prettier@3.1.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.1.1.tgz#6ba9f23165d690b6cbdaa88cb0807278f7019848"
   integrity sha512-22UbSzg8luF4UuZtzgiUOfcGM8s4tjBv6dJRT7j275NXsy2jb4aJa4NNveul5x4eqlF1wuhuR2RElK71RvmVaw==
 
-proto-tailwindcss-clrs@0.0.297:
-  version "0.0.297"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.297.tgz#5b2b8233c7613f26e985be3066a9332cf45582bb"
-  integrity sha512-y/lQCI1UWd1lXq8PFjz+PmYI8CioMXMf2vHdRD+nN2wKWWhcduDZbyhVsrSjY+6nwT3ETmYDenFjt5sF54Cy+w==
+proto-tailwindcss-clrs@0.0.298:
+  version "0.0.298"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.298.tgz#1f90ee0eed3dce8a86a6a90e9e5e13c22b6d299d"
+  integrity sha512-zcgzSvDxh4oWlJjIlZH92WITUplxxAGnUhjWFtVwbRR7DpXdm0zSOSoSdIuP+2mp4nuot43H6OGFqLAaEZzA9Q==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1107,10 +1107,10 @@ svelte@4.2.8:
     magic-string "^0.30.4"
     periscopic "^3.1.0"
 
-tailwindcss@3.3.7:
-  version "3.3.7"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.3.7.tgz#9e3c0cb7c6867b4cda4557a447bd2bb6fe20c6fa"
-  integrity sha512-pjgQxDZPvyS/nG3ZYkyCvsbONJl7GdOejfm24iMt2ElYQQw8Jc4p0m8RdMp7mznPD0kUhfzwV3zAwa80qI0zmQ==
+tailwindcss@3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.0.tgz#045a9c474e6885ebd0436354e611a76af1c76839"
+  integrity sha512-VigzymniH77knD1dryXbyxR+ePHihHociZbXnLZHUyzf2MMs2ZVqlUrZ3FvpXP8pno9JzmILt1sZPD19M3IxtA==
   dependencies:
     "@alloc/quick-lru" "^5.2.0"
     arg "^5.0.2"

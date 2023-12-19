@@ -28,9 +28,9 @@
     "prettier": "3.1.1",
     "prettier-plugin-svelte": "3.1.2",
     "prettier-plugin-tailwindcss": "0.5.9",
-    "proto-tailwindcss-clrs": "0.0.297",
+    "proto-tailwindcss-clrs": "0.0.298",
     "svelte": "4.2.8",
-    "tailwindcss": "3.3.7",
+    "tailwindcss": "3.4.0",
     "vite": "5.0.10"
   }
 }

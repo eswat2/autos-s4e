@@ -9,6 +9,9 @@ HOST="vercel.app"
 PWD=`pwd`
 APP=`basename $PWD`
 
+bold=$(tput bold)
+normal=$(tput sgr0)
+
 if [ "$VERSION" = "$LAST" ];
 then
   if [ $# == 0 ]
@@ -23,6 +26,6 @@ else
   git commit -a -m "bump $VERSION"
   git push
   yarn deploy
-  echo "$PROD $APP.$HOST"
+  echo "$PROD ${bold}$APP.$HOST${normal}"
   git push
 fi
