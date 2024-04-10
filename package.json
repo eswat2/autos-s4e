@@ -20,7 +20,7 @@
     "open": "open https://autos-s4e.vercel.app"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "3.0.2",
+    "@sveltejs/vite-plugin-svelte": "3.1.0",
     "autoprefixer": "10.4.19",
     "concurrently": "8.2.2",
     "fetchql": "3.0.0",
@@ -29,7 +29,7 @@
     "prettier-plugin-svelte": "3.2.2",
     "prettier-plugin-tailwindcss": "0.5.13",
     "proto-tailwindcss-clrs": "0.0.322",
-    "svelte": "4.2.12",
+    "svelte": "4.2.13",
     "tailwindcss": "3.4.3",
     "vite": "5.2.8"
   }
