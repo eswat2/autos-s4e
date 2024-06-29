@@ -24,11 +24,11 @@
     "autoprefixer": "10.4.19",
     "concurrently": "8.2.2",
     "fetchql": "3.0.0",
-    "postcss": "8.4.38",
+    "postcss": "8.4.39",
     "prettier": "3.3.2",
     "prettier-plugin-svelte": "3.2.5",
     "prettier-plugin-tailwindcss": "0.6.5",
-    "proto-tailwindcss-clrs": "0.0.334",
+    "proto-tailwindcss-clrs": "0.0.335",
     "svelte": "4.2.18",
     "tailwindcss": "3.4.4",
     "vite": "5.3.2"
