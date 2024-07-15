@@ -423,9 +423,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001599, caniuse-lite@^1.0.30001640:
-  version "1.0.30001641"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001641.tgz#3572862cd18befae3f637f2a1101cc033c6782ac"
-  integrity sha512-Phv5thgl67bHYo1TtMY/MurjkHhV4EDaCosezRXgZ8jzA/Ub+wjxAvbGvjoFENStinwi5kCyOYV3mi5tOGykwA==
+  version "1.0.30001642"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001642.tgz#6aa6610eb24067c246d30c57f055a9d0a7f8d05f"
+  integrity sha512-3XQ0DoRgLijXJErLSl+bLnJ+Et4KqV1PY6JJBGAFlsNsz31zeAIncyeZfLCabHK/jtSh+671RM9YMldxjUPZtA==
 
 chalk@^4.1.2:
   version "4.1.2"
@@ -1013,10 +1013,10 @@ prettier@3.3.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.3.3.tgz#30c54fe0be0d8d12e6ae61dbb10109ea00d53105"
   integrity sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==
 
-proto-tailwindcss-clrs@0.0.336:
-  version "0.0.336"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.336.tgz#27c2a8bcc0aef54ecc2e82268c54414a3bd06f6a"
-  integrity sha512-dspP/8YJ1Xjr7dszJfVZJIrU4zkSkAntqIWfrz4PK5wrcDz307ebea1ut1a8J1xqJ6Crbf2YW2Br2U8IkOSe7Q==
+proto-tailwindcss-clrs@0.0.337:
+  version "0.0.337"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.337.tgz#e0990c07defec8ac55ce80e68f9f0b126e56365d"
+  integrity sha512-dyRBwDkziaMaWbVftbXQ2eDQOrz55o0dEUXZ1/HjQtCOK/HnbT/+afk3MMw2VFYnd/cEl68x/X7jD/Av8/I36A==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1237,10 +1237,10 @@ svelte@4.2.18:
     magic-string "^0.30.4"
     periscopic "^3.1.0"
 
-tailwindcss@3.4.4:
-  version "3.4.4"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.4.tgz#351d932273e6abfa75ce7d226b5bf3a6cb257c05"
-  integrity sha512-ZoyXOdJjISB7/BcLTR6SEsLgKtDStYyYZVLsUtWChO4Ps20CBad7lfJKVDiejocV4ME1hLmyY0WJE3hSDcmQ2A==
+tailwindcss@3.4.5:
+  version "3.4.5"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.5.tgz#0de2e92ed4d00fb015feb962fa0781605761724d"
+  integrity sha512-DlTxttYcogpDfx3tf/8jfnma1nfAYi2cBUYV2YNoPPecwmO3YGiFlOX9D8tGAu+EDF38ryBzvrDKU/BLMsUwbw==
   dependencies:
     "@alloc/quick-lru" "^5.2.0"
     arg "^5.0.2"
