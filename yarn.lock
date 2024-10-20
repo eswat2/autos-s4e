@@ -965,10 +965,10 @@ prettier@3.3.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.3.3.tgz#30c54fe0be0d8d12e6ae61dbb10109ea00d53105"
   integrity sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==
 
-proto-tailwindcss-clrs@0.0.367:
-  version "0.0.367"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.367.tgz#656e31f278bd3bcd2c15da2c30527e12d1063d4a"
-  integrity sha512-D4Z0EI0/PVxiLL7yePDdT4LpwK5YkOABxci+53gZX3CgfWXMAff6sFE+3kSpHaeo5WXruMa3s+IG1pSXjxrnRw==
+proto-tailwindcss-clrs@0.0.368:
+  version "0.0.368"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.368.tgz#29a5fbe0782866172d2d7a83a619f0aa59fc5f66"
+  integrity sha512-rUUSRdt84AaxF9U83TPGW0ykJpIXsjE/YMicxun4UI3Rp/u7vD2LpzBYPS5rFEEer4Yvvb6TB8FL01fmiyPEgg==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1154,10 +1154,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0.tgz#509fa4e90034a4dd8f0ee19215af373f4d3be793"
-  integrity sha512-jv2IvTtakG58DqZMo6fY3T6HFmGV4iDQH2lSUyfmCEYaoa+aCNcF+9rERbdDvT4XDF0nQBg6TEoJn0dirED8VQ==
+svelte@5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.2.tgz#0f2e9848fad2a086166945ca6f7c19f433c95e7a"
+  integrity sha512-TIqp5kjyTMa45L0McUvVfjuvlF/hyxVolyAc9APY3/FeF5aqYpt+Y1PckPQ7DlsDkthxNeq2+ystop8GlIV3kw==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
