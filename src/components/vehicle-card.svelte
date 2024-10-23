@@ -58,6 +58,6 @@
       class="ikon ml-auto self-center"
       name={value.make}
       label={value.make.toLowerCase()}
-    />
+    ></proto-ikon-loader>
   </div>
 {/if}

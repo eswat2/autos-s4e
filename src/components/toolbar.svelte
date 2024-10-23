@@ -10,7 +10,7 @@
       class="refresh hover:text-clrs-red md:w-auto"
       on:click={() => actions.refresh()}
     >
-      <proto-ikon-loader name="refresh" size="24" />
+      <proto-ikon-loader name="refresh" size="24"></proto-ikon-loader>
     </div>
     <div
       class={tw(

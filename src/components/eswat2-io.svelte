@@ -10,5 +10,6 @@
   target="blank"
   title={who}
 >
-  <proto-ikon-loader name="fingerprint" size="24" label="eswat2" />
+  <proto-ikon-loader name="fingerprint" size="24" label="eswat2"
+  ></proto-ikon-loader>
 </a>
