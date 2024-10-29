@@ -583,9 +583,9 @@ escalade@^3.1.1, escalade@^3.2.0:
   integrity sha512-WUj2qlxaQtO4g6Pq5c29GTcWGDyd8itL8zTlipgECz3JesAiiOKotd8JU6otB3PACgG6xkJUyVhboMS+bje/jA==
 
 esm-env@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.0.tgz#c4552e280ee0398eb5be9ff559165265148724cd"
-  integrity sha512-OwA6VHlemZ9xu0Ae4WjuotzJUWEBPDimGMgxHP/2OPWhKshkmlCrN2hfZaDD6E5I689OpilBkQ2/cQEy7LEwEA==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.1.tgz#d02858ce396148ecf75f298e4c320d5a929b4015"
+  integrity sha512-5HLucDhz5yhDlMHqEedMyD4XjyV7+4vZhUS7zXNiBdSXFrViQCIeRmf7Gcs33USDcX0aGdCH+C6ZWbxzXy3ZGg==
 
 esrap@^1.2.2:
   version "1.2.2"
