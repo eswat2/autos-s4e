@@ -426,9 +426,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001646, caniuse-lite@^1.0.30001669:
-  version "1.0.30001674"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001674.tgz#eb200a716c3e796d33d30b9c8890517a72f862c8"
-  integrity sha512-jOsKlZVRnzfhLojb+Ykb+gyUSp9Xb57So+fAiFlLzzTKpqg8xxSav0e40c8/4F/v9N8QSvrRRaLeVzQbLqomYw==
+  version "1.0.30001675"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001675.tgz#0c1f01fc9cc543b61839753a4c234f995588d1b9"
+  integrity sha512-/wV1bQwPrkLiQMjaJF5yUMVM/VdRPOCU8QZ+PmG6uW6DvYSrNY1bpwHI/3mOcUosLaJCzYDi5o91IQB51ft6cg==
 
 chalk@^4.1.2:
   version "4.1.2"
@@ -583,9 +583,9 @@ escalade@^3.1.1, escalade@^3.2.0:
   integrity sha512-WUj2qlxaQtO4g6Pq5c29GTcWGDyd8itL8zTlipgECz3JesAiiOKotd8JU6otB3PACgG6xkJUyVhboMS+bje/jA==
 
 esm-env@^1.0.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.1.tgz#d02858ce396148ecf75f298e4c320d5a929b4015"
-  integrity sha512-5HLucDhz5yhDlMHqEedMyD4XjyV7+4vZhUS7zXNiBdSXFrViQCIeRmf7Gcs33USDcX0aGdCH+C6ZWbxzXy3ZGg==
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.1.4.tgz#340c78b03ee2298d31c5b9fab9793468ede828b0"
+  integrity sha512-oO82nKPHKkzIj/hbtuDYy/JHqBHFlMIW36SDiPCVsj87ntDLcWN+sJ1erdVryd4NxODacFTsdrIE3b7IamqbOg==
 
 esrap@^1.2.2:
   version "1.2.2"
@@ -1166,10 +1166,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte@5.1.4:
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.1.4.tgz#2ea2764925f33a19fb609746a35d8a029862bde9"
-  integrity sha512-qgHDV7AyvBZa2pbf+V0tnvWrN1LKD8LdUsBkR/SSYVVN6zXexiXnOy5Pjcjft2y/2NJJVa8ORUHFVn3oiWCLVQ==
+svelte@5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.1.6.tgz#97f01dac0d7c44beb8dcd10ce3d3e34224931e1e"
+  integrity sha512-bYS/DpkqXk0j5UZgiNXrEjZYPRZ4Ncd87w4KUSbcZGyojA0+i/Ls9OGUjETHmdLe8RcQ0G8SX/T0PypPpAA/ew==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
