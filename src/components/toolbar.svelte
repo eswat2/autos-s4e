@@ -9,7 +9,7 @@
     <div
       class="refresh hover:text-clrs-red md:w-auto"
       onclick={() => actions.refresh()}
-      onkeypress={e => e.key === 'Enter' && actions.refresh()}
+      onkeydown={e => e.key === 'Enter' && actions.refresh()}
       role="button"
       tabindex="0"
     >
