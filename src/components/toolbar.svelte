@@ -8,7 +8,10 @@
   <div class="flex">
     <div
       class="refresh hover:text-clrs-red md:w-auto"
-      on:click={() => actions.refresh()}
+      onclick={() => actions.refresh()}
+      onkeypress={e => e.key === 'Enter' && actions.refresh()}
+      role="button"
+      tabindex="0"
     >
       <proto-ikon-loader name="refresh" size="24"></proto-ikon-loader>
     </div>
@@ -33,7 +36,7 @@
                 ? 'bg-clrs-red text-white'
                 : 'bg-clrs-yellow text-clrs-navy',
             )}
-            on:click={() => actions.updatePick(index)}
+            onclick={() => actions.updatePick(index)}
             title={`${item.name} (${item.vehicles.length})`}
           >
             {index + 1}
