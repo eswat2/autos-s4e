@@ -319,10 +319,15 @@
     magic-string "^0.30.15"
     vitefu "^1.0.4"
 
-"@types/estree@1.0.6", "@types/estree@^1.0.1", "@types/estree@^1.0.5", "@types/estree@^1.0.6":
+"@types/estree@1.0.6", "@types/estree@^1.0.5", "@types/estree@^1.0.6":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.6.tgz#628effeeae2064a1b4e79f78e81d87b7e5fc7b50"
   integrity sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==
+
+"@typescript-eslint/types@^8.2.0":
+  version "8.18.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-8.18.1.tgz#d7f4f94d0bba9ebd088de840266fcd45408a8fff"
+  integrity sha512-7uoAUsCj66qdNQNpH2G8MyTFlgerum8ubf21s3TSM3XmKXuIn+H2Sifh/ES2nPOPiYSRJWAk0fDkW0APBWcpfw==
 
 acorn-typescript@^1.4.13:
   version "1.4.13"
@@ -599,12 +604,12 @@ esm-env@^1.2.1:
   integrity sha512-U9JedYYjCnadUlXk7e1Kr+aENQhtUaoaV9+gZm1T8LC/YBAPJx3NSPIAurFOC0U5vrdSevnUJS2/wUVxGwPhng==
 
 esrap@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.2.3.tgz#abe6c0cffeee013aaa8396ad8eaa7c0553768323"
-  integrity sha512-ZlQmCCK+n7SGoqo7DnfKaP1sJZa49P01/dXzmjCASSo04p72w8EksT2NMK8CEX8DhKsfJXANioIw8VyHNsBfvQ==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.3.0.tgz#0d15b0bd6dea6233115eac465e05003ea2b64a75"
+  integrity sha512-LPT4X5Ur2sGnkQscwgWXRPVDuQrbuJbrStLmVXVXd+lGQ/HoYmcAa47t0Egzw1bYHwhF0w+6DTkxL1Xctp10XQ==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
-    "@types/estree" "^1.0.1"
+    "@typescript-eslint/types" "^8.2.0"
 
 fast-glob@^3.3.2:
   version "3.3.2"
@@ -760,9 +765,9 @@ jackspeak@^3.1.2:
     "@pkgjs/parseargs" "^0.11.0"
 
 jiti@^1.21.6:
-  version "1.21.6"
-  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.21.6.tgz#6c7f7398dd4b3142767f9a168af2f317a428d268"
-  integrity sha512-2yTgeWTWzMWkHu6Jp9NKgePDaYHbntiwvYuuJLbbN9vl7DC9DvXKOB2BC3ZZ92D3cvV/aflH0osDfwpHepQ53w==
+  version "1.21.7"
+  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.21.7.tgz#9dd81043424a3d28458b193d965f0d18a2300ba9"
+  integrity sha512-/imKNG4EbWNrVjoNC/1H5/9GFy+tqjGBHCaSsN+P2RnPqjsLmv6UD3Ej+Kj8nBWaRAwyk7kK5ZUc+OEatnTR3A==
 
 kleur@^4.1.5:
   version "4.1.5"
@@ -981,10 +986,10 @@ prettier@3.4.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
   integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
 
-proto-tailwindcss-clrs@0.0.388:
-  version "0.0.388"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.388.tgz#9c77c47d0d49135883c699a1677d3e0c1847f4a6"
-  integrity sha512-ZyV+yEwv/Anif815rv/4KmRF1+KXUaWZLrethBgYJMobST8BJJtnKMA+zJb1NVrJ5jwAjr9YDQFSZrFWWxFcLQ==
+proto-tailwindcss-clrs@0.0.389:
+  version "0.0.389"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.389.tgz#32bc644cc7527e521c90a43d59e940890b149fa0"
+  integrity sha512-Wfbqhzy3oNN4bAwHe/6sKpzj4P9HnKEbG9BQo+q+Eif97AwjyN4Rs44LIJx+9o6YmnnDwiwDcDk19M55KPiaBQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1192,10 +1197,10 @@ svelte@5.14.2:
     magic-string "^0.30.11"
     zimmerframe "^1.1.2"
 
-tailwindcss@3.4.16:
-  version "3.4.16"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.16.tgz#35a7c3030844d6000fc271878db4096b6a8d2ec9"
-  integrity sha512-TI4Cyx7gDiZ6r44ewaJmt0o6BrMCT5aK5e0rmJ/G9Xq3w7CX/5VXl/zIPEJZFUK5VEqwByyhqNPycPlvcK4ZNw==
+tailwindcss@3.4.17:
+  version "3.4.17"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.4.17.tgz#ae8406c0f96696a631c790768ff319d46d5e5a63"
+  integrity sha512-w33E2aCvSDP0tW9RZuNXadXlkHXqFzSkQew/aIa2i/Sj8fThxwovwlXHSPXTbAHwEIhBFXAedUhP2tueAKP8Og==
   dependencies:
     "@alloc/quick-lru" "^5.2.0"
     arg "^5.0.2"
