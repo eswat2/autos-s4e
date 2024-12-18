@@ -307,10 +307,10 @@
   dependencies:
     debug "^4.3.7"
 
-"@sveltejs/vite-plugin-svelte@5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-5.0.2.tgz#3c2201cea6ecd9368ef679a3515dfa4ea9fcef5f"
-  integrity sha512-GElAxQMlznx1pRdodtkmiyBZcjlaJntJ8APa2hBhnbUAJqKAFGdmwjRPJhh+2DMxwARRLBzQIs/iZ5EbR4X/og==
+"@sveltejs/vite-plugin-svelte@5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-5.0.3.tgz#50f425c677243e00fda0402c049f28b489c7ab81"
+  integrity sha512-MCFS6CrQDu1yGwspm4qtli0e63vaPCehf6V7pIMP15AsWgMKrqDGCPFF/0kn4SP0ii4aySu4Pa62+fIRGFMjgw==
   dependencies:
     "@sveltejs/vite-plugin-svelte-inspector" "^4.0.1"
     debug "^4.4.0"
@@ -603,10 +603,10 @@ esm-env@^1.2.1:
   resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.2.1.tgz#34c2a0ba60582948afbe7bd779bc66f9d3aece7e"
   integrity sha512-U9JedYYjCnadUlXk7e1Kr+aENQhtUaoaV9+gZm1T8LC/YBAPJx3NSPIAurFOC0U5vrdSevnUJS2/wUVxGwPhng==
 
-esrap@^1.2.3:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.3.0.tgz#0d15b0bd6dea6233115eac465e05003ea2b64a75"
-  integrity sha512-LPT4X5Ur2sGnkQscwgWXRPVDuQrbuJbrStLmVXVXd+lGQ/HoYmcAa47t0Egzw1bYHwhF0w+6DTkxL1Xctp10XQ==
+esrap@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.3.1.tgz#537861022bfda890a5658f2cd53af9a0d65e8ec9"
+  integrity sha512-KpAH3+QsDmtOP1KOW04CbD1PgzWsIHjB8tOCk3PCb8xzNGn8XkjI8zl80i09fmXdzQyaS8tcsKCCDzHF7AcowA==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
     "@typescript-eslint/types" "^8.2.0"
@@ -1178,10 +1178,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte@5.14.2:
-  version "5.14.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.14.2.tgz#0b7dfa162a496be82357bf3702c874df76f2cf54"
-  integrity sha512-OxNh82bYjbutXNSZSPQspZzzmVzlRyNbiz0a6KrpOWvQ9LBUUZifXyeKhfl73LgyQC9UbsnVS9M55nQzqekMTA==
+svelte@5.14.4:
+  version "5.14.4"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.14.4.tgz#d1f8add8cf91cb5c6b8d7bfe5c3a660676e01aa7"
+  integrity sha512-2iR/UHHA2Dsldo4JdXDcdqT+spueuh+uNYw1FoTKBbpnFEECVISeqSo0uubPS4AfBE0xI6u7DGHxcdq3DTDmoQ==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
@@ -1191,7 +1191,7 @@ svelte@5.14.2:
     aria-query "^5.3.1"
     axobject-query "^4.1.0"
     esm-env "^1.2.1"
-    esrap "^1.2.3"
+    esrap "^1.3.1"
     is-reference "^3.0.3"
     locate-character "^3.0.0"
     magic-string "^0.30.11"
