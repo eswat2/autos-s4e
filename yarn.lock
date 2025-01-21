@@ -1183,10 +1183,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte@5.19.0:
-  version "5.19.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.19.0.tgz#bfe63f5fc794c5bbd2240435b9050fff09680833"
-  integrity sha512-qvd2GvvYnJxS/MteQKFSMyq8cQrAAut28QZ39ySv9k3ggmhw4Au4Rfcsqva74i0xMys//OhbhVCNfXPrDzL/Bg==
+svelte@5.19.1:
+  version "5.19.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.19.1.tgz#087ce8eea789df42de9b3d226aaed19ab862dd82"
+  integrity sha512-H/Vs2O51bwILZbaNUSdr4P1NbLpOGsxl4jJAjd88ELjzRgeRi1BHqexcVGannDr7D1pmTYWWajzHOM7bMbtB9Q==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
@@ -1280,10 +1280,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vite@6.0.10:
-  version "6.0.10"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-6.0.10.tgz#48685694c36d8c8f87b93f3fd0de089d3930b361"
-  integrity sha512-MEszunEcMo6pFsfXN1GhCFQqnE25tWRH0MA4f0Q7uanACi4y1Us+ZGpTMnITwCTnYzB2b9cpmnelTlxgTBmaBA==
+vite@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-6.0.11.tgz#224497e93e940b34c3357c9ebf2ec20803091ed8"
+  integrity sha512-4VL9mQPKoHy4+FE0NnRE/kbY51TOfaknxAjt3fJbGJxhIpBZiqVzlZDEesWWsuREXHwNdAoOFZ9MkPEVXczHwg==
   dependencies:
     esbuild "^0.24.2"
     postcss "^8.4.49"
