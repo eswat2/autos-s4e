@@ -28,9 +28,9 @@
             class={tw(
               'h-8 w-8 border-none font-bold',
               index == 0
-                ? 'rounded-bl-md rounded-br-none rounded-tl-md rounded-tr-none'
+                ? 'rounded-tl-md rounded-tr-none rounded-br-none rounded-bl-md'
                 : index == $list.length - 1
-                  ? 'rounded-bl-none rounded-br-md rounded-tl-none rounded-tr-md'
+                  ? 'rounded-tl-none rounded-tr-md rounded-br-md rounded-bl-none'
                   : 'rounded-none',
               $pick == index
                 ? 'bg-clrs-red text-white'

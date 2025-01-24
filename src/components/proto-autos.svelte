@@ -13,8 +13,8 @@
   <Eswat2 />
   <h1
     class={tw(
-      'text-center uppercase text-clrs-red',
-      'mb-11 ml-0 mr-0 mt-11',
+      'text-clrs-red text-center uppercase',
+      'mt-11 mr-0 mb-11 ml-0',
       'text-6xl font-thin',
     )}
   >
@@ -24,9 +24,9 @@
   {#if !$loading}
     <hr
       class={tw(
-        'mb-4 ml-0 mr-0 mt-4',
+        'mt-4 mr-0 mb-4 ml-0',
         'border-solid border-gray-300',
-        'border-b-0 border-l-0 border-r-0',
+        'border-r-0 border-b-0 border-l-0',
       )}
     />
   {:else}

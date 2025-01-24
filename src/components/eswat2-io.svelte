@@ -4,7 +4,7 @@
 </script>
 
 <a
-  class="absolute right-0 top-0 mr-6 mt-6 text-clrs-gray hover:text-clrs-navy"
+  class="text-clrs-gray hover:text-clrs-navy absolute top-0 right-0 mt-6 mr-6"
   href={url}
   aria-label={who}
   target="blank"

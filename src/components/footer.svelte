@@ -2,6 +2,6 @@
   import TwLabel from './tw-label.svelte';
 </script>
 
-<div class="mb-4 mr-2 mt-2 flex flex-row">
+<div class="mt-2 mr-2 mb-4 flex flex-row">
   <TwLabel />
 </div>
