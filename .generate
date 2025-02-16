@@ -1,1 +1,10 @@
-../.generate
+#!/usr/bin/env bash
+#
+TARGET=../.generate
+
+if [ -f ${TARGET} ]
+then
+  sh ${TARGET}
+else
+  echo "-- skip"
+fi
