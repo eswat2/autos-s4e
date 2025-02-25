@@ -1,4 +1,4 @@
-/*! tailwindcss v4.0.8 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.0.9 | MIT License | https://tailwindcss.com */
 @layer theme, base, components, utilities;
 @layer theme {
   :root,
@@ -351,11 +351,6 @@
     width: 196px;
   }
 }
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
 @property --tw-border-style {
   syntax: '*';
   inherits: false;
@@ -404,4 +399,9 @@
 @property --tw-drop-shadow {
   syntax: '*';
   inherits: false;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }
