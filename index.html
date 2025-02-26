@@ -7,15 +7,12 @@
     <link rel="stylesheet" href="/src/styles/app.css" />
 
     <title>Svelte Autos 0.1.9</title>
+    <script
+      type="module"
+      src="https://unpkg.com/proto-ikon-loader-wc@0.1.9/dist/proto-ikon-loader-wc/proto-ikon-loader-wc.esm.js"
+      async
+    ></script>
     <script>
-      var script_tag = document.createElement('script');
-      script_tag.setAttribute('type', 'module');
-      script_tag.setAttribute(
-        'src',
-        'https://unpkg.com/proto-ikon-loader-wc@0.1.9/dist/proto-ikon-loader-wc/proto-ikon-loader-wc.esm.js',
-      );
-      document.head.appendChild(script_tag);
-
       window.protoIkonFallback = 'pulse-icon';
     </script>
     <style>
