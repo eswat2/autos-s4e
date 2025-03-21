@@ -660,10 +660,10 @@ supports-color@^8.1.1:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@5.24.1:
-  version "5.24.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.24.1.tgz#0780e21d82ac6e0c0353f308fa7107eff8621bff"
-  integrity sha512-SyripJZKMhkhRwnuhhKFkM9P0Wlu2YZij8azrH/DN7wzigMuNeyq/5wRCS46EsYuDW5Zl7AnzgKPvu7qD/rULA==
+svelte@5.25.1:
+  version "5.25.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.25.1.tgz#f9a8ee0e318f439375d5e3bba3627a31f67c6fde"
+  integrity sha512-Y+lNyQql/m83nQFwXfbhUcic7QSE7UN11i8yyxDAOiQdscpM212yo4It4+k3AZCDrpRRsEz0uytFRwVOz1iZug==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
