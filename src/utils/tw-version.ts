@@ -1,5 +1,5 @@
 // WARNING:  generated file...
-const TW_VERSION = '4.1.1';
+const TW_VERSION = '4.1.2';
 
 export { TW_VERSION };
 export default TW_VERSION;
