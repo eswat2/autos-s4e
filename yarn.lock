@@ -410,9 +410,9 @@ deepmerge@^4.3.1:
   integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.135"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.135.tgz#6d835020fa0c7f02f30d7608c2f3c0a764236699"
-  integrity sha512-8gXUdEmvb+WCaYUhA0Svr08uSeRjM2w3x5uHOc1QbaEVzJXB8rgm5eptieXzyKoVEtinLvW6MtTcurA65PeS1Q==
+  version "1.5.136"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.136.tgz#854b45e6a892137762cb026ed6ec77391fc5c07b"
+  integrity sha512-kL4+wUTD7RSA5FHx5YwWtjDnEEkIIikFgWHR4P6fqjw1PPLlqYkxeOb++wAauAssat0YClCy8Y3C5SxgSkjibQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -666,10 +666,10 @@ supports-color@^8.1.1:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@5.25.10:
-  version "5.25.10"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.25.10.tgz#c0c14a98d74d9cd183a77a861d219b85936ded7c"
-  integrity sha512-tOUlvm3goAhmELYKWYX3SchYeqlVlIcUfKA4qIgd6Urm7qDw3KiZP/wJtoRv3ZeRUHPorM9f6+lOlbFxUN8QoA==
+svelte@5.25.11:
+  version "5.25.11"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.25.11.tgz#e1a4493f36812759277262a6f2e494d6b938532c"
+  integrity sha512-bhV22nzQ2WrygU9f25FDKIzguVzZn9oI9fGgZ1mzhgTef6RlSgGgwLt7GWFcIBSp6S351M37YrfYGzLmuXyWPA==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
