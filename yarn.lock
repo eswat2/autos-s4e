@@ -409,9 +409,9 @@ deepmerge@^4.3.1:
   integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 electron-to-chromium@^1.5.173:
-  version "1.5.197"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.197.tgz#117f9d1afd82ae84bbfedd168ddcf52e4afb6216"
-  integrity sha512-m1xWB3g7vJ6asIFz+2pBUbq3uGmfmln1M9SSvBe4QIFWYrRHylP73zL/3nMjDmwz8V+1xAXQDfBd6+HPW0WvDQ==
+  version "1.5.198"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.198.tgz#ac12b539ac1bb3dece1a4cd2d8882d0349c71c55"
+  integrity sha512-G5COfnp3w+ydVu80yprgWSfmfQaYRh9DOxfhAxstLyetKaLyl55QrNjx8C38Pc/C+RaDmb1M0Lk8wPEMQ+bGgQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -600,7 +600,7 @@ require-directory@^2.1.1:
   resolved "https://registry.yarnpkg.com/require-directory/-/require-directory-2.1.1.tgz#8c64ad5fd30dab1c976e2344ffe7f792a6a6df42"
   integrity sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==
 
-rollup@^4.40.0:
+rollup@^4.43.0:
   version "4.46.2"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-4.46.2.tgz#09b1a45d811e26d09bed63dc3ecfb6831c16ce32"
   integrity sha512-WMmLFI+Boh6xbop+OAGo9cQ3OgX9MIg7xOQjn+pTCwOkk+FNDAeAemXkJ3HzDJrVXleLOFVa1ipuc1AmEx1Dwg==
@@ -727,16 +727,16 @@ update-browserslist-db@^1.1.3:
     escalade "^3.2.0"
     picocolors "^1.1.1"
 
-vite@7.0.6:
-  version "7.0.6"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-7.0.6.tgz#7866ccb176db4bbeec0adfb3f907f077881591d0"
-  integrity sha512-MHFiOENNBd+Bd9uvc8GEsIzdkn1JxMmEeYX35tI3fv0sJBUTfW5tQsoaOwuY4KhBI09A3dUJ/DXf2yxPVPUceg==
+vite@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-7.1.0.tgz#6fb13c74c13cfdd0e200ee61d6ea6e8fafc2e8b5"
+  integrity sha512-3jdAy3NhBJYsa/lCFcnRfbK4kNkO/bhijFCnv5ByUQk/eekYagoV2yQSISUrhpV+5JiY5hmwOh7jNnQ68dFMuQ==
   dependencies:
     esbuild "^0.25.0"
     fdir "^6.4.6"
     picomatch "^4.0.3"
     postcss "^8.5.6"
-    rollup "^4.40.0"
+    rollup "^4.43.0"
     tinyglobby "^0.2.14"
   optionalDependencies:
     fsevents "~2.3.3"
