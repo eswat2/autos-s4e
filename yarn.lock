@@ -413,9 +413,9 @@ deepmerge@^4.3.1:
   integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 electron-to-chromium@^1.5.211:
-  version "1.5.211"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.211.tgz#749317bf9cf894c06f67980940cf8074e5eb08ca"
-  integrity sha512-IGBvimJkotaLzFnwIVgW9/UD/AOJ2tByUmeOrtqBfACSbAw5b1G0XpvdaieKyc7ULmbwXVx+4e4Be8pOPBrYkw==
+  version "1.5.212"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.212.tgz#9b541f90d7d8415ccea94d4be4bb86e73e3f9547"
+  integrity sha512-gE7ErIzSW+d8jALWMcOIgf+IB6lpfsg6NwOhPVwKzDtN2qcBix47vlin4yzSregYDxTCXOUqAZjVY/Z3naS7ww==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -589,10 +589,10 @@ prettier@3.6.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.2.tgz#ccda02a1003ebbb2bfda6f83a074978f608b9393"
   integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==
 
-proto-tailwindcss-clrs@0.0.438:
-  version "0.0.438"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.438.tgz#c78228fb8e0b5cf7162f8dd10b2281be3d7e282b"
-  integrity sha512-04m8izjMgCHyE+kySN9dWSku8HfWMOFfnDO7tS3vJKqtnXKsingu6oU+WEnYAy8liwSYVBju6ZQDoFPdlcK+Rw==
+proto-tailwindcss-clrs@0.0.439:
+  version "0.0.439"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.439.tgz#375193eb43188093b4343103bf1ca2ebbe952c8a"
+  integrity sha512-/xtqdcK+sOzWvPecjbtwRMHlO6JEmv3BKgQoAygo39J6KYaxCL00/Wk3vn93dxXQf07lSgYXj+pk0tlZEGOqOg==
 
 require-directory@^2.1.1:
   version "2.1.1"
