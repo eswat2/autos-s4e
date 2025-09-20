@@ -682,10 +682,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@5.39.2:
-  version "5.39.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.2.tgz#2be57880154deac671e992f987bf61ada381a054"
-  integrity sha512-x4Me4TgiNprpLugcXyKbcGQhHdjWpITZzSeegv3jjIyA4jObVKBhNchGGDv257Eeolg3vUUSa4n2HGFMYNaPvg==
+svelte@5.39.3:
+  version "5.39.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.39.3.tgz#d9cbc861692f60826a2d5b56023a0cd6af072441"
+  integrity sha512-7Jwus6iXviGZAvhqbeYu3NNHA6LGyQ8EbmjdAhJUDade5rrW6g9VnBbRhUuYX4pMZLHozijsFolt88zvKPfsbQ==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
