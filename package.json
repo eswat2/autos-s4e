@@ -32,9 +32,9 @@
     "prettier-plugin-svelte": "3.4.0",
     "prettier-plugin-tailwindcss": "0.7.1",
     "proto-tailwindcss-clrs": "0.0.453",
-    "svelte": "5.43.12",
+    "svelte": "5.43.13",
     "tailwindcss": "4.1.17",
-    "vite": "7.2.2"
+    "vite": "7.2.4"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
