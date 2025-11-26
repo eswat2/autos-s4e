@@ -428,9 +428,9 @@ devalue@^5.5.0:
   integrity sha512-69sM5yrHfFLJt0AZ9QqZXGCPfJ7fQjvpln3Rq5+PS03LD32Ost1Q9N+eEnaQwGRIriKkMImXD56ocjQmfjbV3w==
 
 electron-to-chromium@^1.5.249:
-  version "1.5.260"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.260.tgz#73f555d3e9b9fd16ff48fc406bbad84efa9b86c7"
-  integrity sha512-ov8rBoOBhVawpzdre+Cmz4FB+y66Eqrk6Gwqd8NGxuhv99GQ8XqMAr351KEkOt7gukXWDg6gJWEMKgL2RLMPtA==
+  version "1.5.261"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.261.tgz#461c28a49ae06866e171068565b66cd314678b7c"
+  integrity sha512-cmyHEWFqEt3ICUNF93ShneOF47DHoSDbLb7E/AonsWcbzg95N+kPXeLNfkdzgTT/vEUcoW76fxbLBkeYtfoM8A==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -479,7 +479,7 @@ esm-env@^1.2.1:
   resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.2.2.tgz#263c9455c55861f41618df31b20cb571fc20b75e"
   integrity sha512-Epxrv+Nr/CaL4ZcFGPJIYLWFom+YeV1DqMLHJoEd9SYRxNbaFruBwfEX/kkHUJf55j2+TUbmDcmuilbP1TmXHA==
 
-esrap@^2.1.0:
+esrap@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/esrap/-/esrap-2.2.0.tgz#0b28cd2dd263e4534b506cbd28c412c1c672ba00"
   integrity sha512-WBmtxe7R9C5mvL4n2le8nMUe4mD5V9oiK2vJpQ9I3y20ENPUomPcphBXE8D1x/Bm84oN1V+lOfgXxtqmxTp3Xg==
@@ -687,10 +687,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@5.44.1:
-  version "5.44.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.44.1.tgz#8a791f6a39832faa4e339d9005f30ee187d3caab"
-  integrity sha512-8VnkRXpa6tJ9IqiwKvzZBNnBy9tZg0N63duDz0EJqiozsmBEAZfHiZzWWWAneIN+cAWkK1JkafW1xIbC4YrdBA==
+svelte@5.45.1:
+  version "5.45.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.45.1.tgz#811dc4052602390bc1e21bfe616cd44ee70800ab"
+  integrity sha512-arf+zybnG7sfOnQ0Xj+sld8+RDBnE9Uw2ofD4cNbIwlVSLbxfZrkdA9Gd6NfWdC101moFP58/l3ZG9dSNfrrEQ==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
@@ -702,7 +702,7 @@ svelte@5.44.1:
     clsx "^2.1.1"
     devalue "^5.5.0"
     esm-env "^1.2.1"
-    esrap "^2.1.0"
+    esrap "^2.2.0"
     is-reference "^3.0.3"
     locate-character "^3.0.0"
     magic-string "^0.30.11"
