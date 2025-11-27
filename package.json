@@ -13,7 +13,7 @@
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
     "twx": "sh ./.generate",
     "start": "vite",
-    "build": "yarn twx; yarn format; vite build",
+    "build": "yarn twx; vite build",
     "serve": "vite preview",
     "cc": "prettier --check './src/**/*.{css,pcss,js,ts,svelte}'",
     "format": "prettier --write './src/**/*.{css,pcss,js,ts,svelte}'",
