@@ -593,10 +593,10 @@ prettier@3.7.4:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.7.4.tgz#d2f8335d4b1cec47e1c8098645411b0c9dff9c0f"
   integrity sha512-v6UNi1+3hSlVvv8fSaoUbggEM5VErKmmpGA7Pl3HF8V6uKY7rvClBOJlH6yNwQtfTueNkGVpOv/mtWL9L4bgRA==
 
-proto-tailwindcss-clrs@0.0.453:
-  version "0.0.453"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.453.tgz#f705cd49a5f2d6be963f08a157efe22d9b60b58f"
-  integrity sha512-j/gOcyYR+16iKVCOrOrC6YoZDLxVRSbBQNrguTwc8Z8BBhkMmrUvKR0svze4NA5VxSnixV/nAQ4L3+jI53gZfw==
+proto-tailwindcss-clrs@0.0.454:
+  version "0.0.454"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.454.tgz#3fed8a4ec54d9a0d295ae8078bc674807a007eca"
+  integrity sha512-/YydV6g3EZNbJETNVqsoJU1786t5PCGJMRjcNnA4UfHtRJqWJAHGfad6uJi84WJ0qH4cj0xWzIOx5XGthH8pCg==
 
 require-directory@^2.1.1:
   version "2.1.1"
