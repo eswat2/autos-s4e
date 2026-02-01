@@ -10,24 +10,28 @@
     "node": ">=18"
   },
   "scripts": {
-    "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
+    "bump": "bumpp patch --commit --tag --push --yes",
+    "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
+    "release": "pnpm bump && pnpm build && pnpm deploy-app",
+    "preinstall": "npx only-allow pnpm",
+    "dev": "concurrently \"pnpm:twx --watch\" \"pnpm:start\"",
     "twx": "sh ./.generate",
     "start": "vite",
-    "prebuild": "echo skipping yarn format",
-    "build": "yarn twx; vite build",
+    "prebuild": "echo skipping pnpm format",
+    "build": "pnpm twx; vite build",
     "serve": "vite preview",
     "cc": "prettier --check './src/**/*.{css,pcss,js,ts,svelte}'",
     "format": "prettier --write './src/**/*.{css,pcss,js,ts,svelte}'",
     "spell": "cspell './**/*.js'",
-    "predeploy": "yarn version --patch; yarn build",
-    "deploy": "cd dist; ln -s ../.vercel; vc --prod",
     "open": "open https://autos-s4e.vercel.app"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "6.2.4",
     "autoprefixer": "10.4.24",
+    "bumpp": "10.4.0",
     "concurrently": "9.2.1",
     "fetchql": "3.0.0",
+    "only-allow": "1.2.2",
     "postcss": "8.5.6",
     "prettier": "3.8.1",
     "prettier-plugin-svelte": "3.4.1",
@@ -36,6 +40,5 @@
     "svelte": "5.49.1",
     "tailwindcss": "4.1.18",
     "vite": "7.3.1"
-  },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  }
 }
