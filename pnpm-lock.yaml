@@ -39,8 +39,8 @@ importers:
         specifier: 0.7.2
         version: 0.7.2(prettier-plugin-svelte@3.4.1(prettier@3.8.1)(svelte@5.49.1))(prettier@3.8.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.467
-        version: 0.0.467
+        specifier: 0.0.468
+        version: 0.0.468
       svelte:
         specifier: 5.49.1
         version: 5.49.1
@@ -511,8 +511,8 @@ packages:
     resolution: {integrity: sha512-JVUnt+DUIzu87TABbhPmNfVdBDt18BLOWjMUFJMSi/Qqg7NTYtabbvSNJGOJ7afbRuv9D/lngizHtP7QyLQ+9w==}
     engines: {node: '>=12'}
 
-  electron-to-chromium@1.5.283:
-    resolution: {integrity: sha512-3vifjt1HgrGW/h76UEeny+adYApveS9dH2h3p57JYzBSXJIKUJAvtmIytDKjcSCt9xHfrNCFJ7gts6vkhuq++w==}
+  electron-to-chromium@1.5.286:
+    resolution: {integrity: sha512-9tfDXhJ4RKFNerfjdCcZfufu49vg620741MNs26a9+bhLThdB+plgMeou98CAaHu/WATj2iHOOHTp1hWtABj2A==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -705,8 +705,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.467:
-    resolution: {integrity: sha512-YpvWwDdRc3bkyOR1CDfJCp5T4sepY2cSxnZx46903V+omkEJpRX6nr5D7Kw2bqnoNzqGybQj0vIRkgnmpCA89Q==}
+  proto-tailwindcss-clrs@0.0.468:
+    resolution: {integrity: sha512-uVuVUhuYWWe4xDtNZ/MZY30ApOb6PecceIHLmVnhOI/EbY3gSQPQCrVUs6UhjIJcHqRBJie79T3gQfjHjQK5nA==}
     engines: {node: '>=18'}
 
   rc9@2.1.2:
@@ -1093,7 +1093,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.9.19
       caniuse-lite: 1.0.30001767
-      electron-to-chromium: 1.5.283
+      electron-to-chromium: 1.5.286
       node-releases: 2.0.27
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
 
@@ -1184,7 +1184,7 @@ snapshots:
 
   dotenv@17.2.3: {}
 
-  electron-to-chromium@1.5.283: {}
+  electron-to-chromium@1.5.286: {}
 
   emoji-regex@8.0.0: {}
 
@@ -1324,7 +1324,7 @@ snapshots:
 
   prettier@3.8.1: {}
 
-  proto-tailwindcss-clrs@0.0.467: {}
+  proto-tailwindcss-clrs@0.0.468: {}
 
   rc9@2.1.2:
     dependencies:
