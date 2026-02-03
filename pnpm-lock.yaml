@@ -39,8 +39,8 @@ importers:
         specifier: 0.7.2
         version: 0.7.2(prettier-plugin-svelte@3.4.1(prettier@3.8.1)(svelte@5.49.1))(prettier@3.8.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.464
-        version: 0.0.464
+        specifier: 0.0.467
+        version: 0.0.467
       svelte:
         specifier: 5.49.1
         version: 5.49.1
@@ -450,8 +450,8 @@ packages:
     resolution: {integrity: sha512-b6Ilus+c3RrdDk+JhLKUAQfzzgLEPy6wcXqS7f/xe1EETvsDP6GORG7SFuOs6cID5YkqchW/LXZbX5bc8j7ZcQ==}
     engines: {node: '>=8'}
 
-  caniuse-lite@1.0.30001766:
-    resolution: {integrity: sha512-4C0lfJ0/YPjJQHagaE9x2Elb69CIqEPZeG0anQt9SIvIoOH4a4uaRl73IavyO+0qZh6MDLH//DrXThEYKHkmYA==}
+  caniuse-lite@1.0.30001767:
+    resolution: {integrity: sha512-34+zUAMhSH+r+9eKmYG+k2Rpt8XttfE4yXAjoZvkAPs15xcYQhyBYdalJ65BzivAvGRMViEjy6oKr/S91loekQ==}
 
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
@@ -705,8 +705,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.464:
-    resolution: {integrity: sha512-Ncc7BFBpDyWKLrp/qCDo+slBwRK5IDvntNBz3PQUwz694LViSGlbZo4rMmSdqZdiiWYJzJaS8aLuwjSct3l+gg==}
+  proto-tailwindcss-clrs@0.0.467:
+    resolution: {integrity: sha512-YpvWwDdRc3bkyOR1CDfJCp5T4sepY2cSxnZx46903V+omkEJpRX6nr5D7Kw2bqnoNzqGybQj0vIRkgnmpCA89Q==}
     engines: {node: '>=18'}
 
   rc9@2.1.2:
@@ -1079,7 +1079,7 @@ snapshots:
   autoprefixer@10.4.24(postcss@8.5.6):
     dependencies:
       browserslist: 4.28.1
-      caniuse-lite: 1.0.30001766
+      caniuse-lite: 1.0.30001767
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.6
@@ -1092,7 +1092,7 @@ snapshots:
   browserslist@4.28.1:
     dependencies:
       baseline-browser-mapping: 2.9.19
-      caniuse-lite: 1.0.30001766
+      caniuse-lite: 1.0.30001767
       electron-to-chromium: 1.5.283
       node-releases: 2.0.27
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
@@ -1130,7 +1130,7 @@ snapshots:
 
   cac@6.7.14: {}
 
-  caniuse-lite@1.0.30001766: {}
+  caniuse-lite@1.0.30001767: {}
 
   chalk@4.1.2:
     dependencies:
@@ -1324,7 +1324,7 @@ snapshots:
 
   prettier@3.8.1: {}
 
-  proto-tailwindcss-clrs@0.0.464: {}
+  proto-tailwindcss-clrs@0.0.467: {}
 
   rc9@2.1.2:
     dependencies:
