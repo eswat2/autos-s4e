@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.0.0
-        version: 7.0.0(svelte@5.53.7)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
+        version: 7.0.0(svelte@5.53.9)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
       autoprefixer:
         specifier: 10.4.27
         version: 10.4.27(postcss@8.5.8)
@@ -34,16 +34,16 @@ importers:
         version: 3.8.1
       prettier-plugin-svelte:
         specifier: 3.5.1
-        version: 3.5.1(prettier@3.8.1)(svelte@5.53.7)
+        version: 3.5.1(prettier@3.8.1)(svelte@5.53.9)
       prettier-plugin-tailwindcss:
         specifier: 0.7.2
-        version: 0.7.2(prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.7))(prettier@3.8.1)
+        version: 0.7.2(prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.9))(prettier@3.8.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.473
-        version: 0.0.473
+        specifier: 0.0.474
+        version: 0.0.474
       svelte:
-        specifier: 5.53.7
-        version: 5.53.7
+        specifier: 5.53.9
+        version: 5.53.9
       tailwindcss:
         specifier: 4.2.1
         version: 4.2.1
@@ -446,8 +446,8 @@ packages:
     resolution: {integrity: sha512-b6Ilus+c3RrdDk+JhLKUAQfzzgLEPy6wcXqS7f/xe1EETvsDP6GORG7SFuOs6cID5YkqchW/LXZbX5bc8j7ZcQ==}
     engines: {node: '>=8'}
 
-  caniuse-lite@1.0.30001776:
-    resolution: {integrity: sha512-sg01JDPzZ9jGshqKSckOQthXnYwOEP50jeVFhaSFbZcOy05TiuuaffDOfcwtCisJ9kNQuLBFibYywv2Bgm9osw==}
+  caniuse-lite@1.0.30001777:
+    resolution: {integrity: sha512-tmN+fJxroPndC74efCdp12j+0rk0RHwV5Jwa1zWaFVyw2ZxAuPeG8ZgWC3Wz7uSjT3qMRQ5XHZ4COgQmsCMJAQ==}
 
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
@@ -591,8 +591,8 @@ packages:
   node-fetch-native@1.6.7:
     resolution: {integrity: sha512-g9yhqoedzIUm0nTnTqAQvueMPVOuIY16bqgAJJC8XOOubYFNwz6IER9qs0Gq2Xd0+CecCKFjtdDTMA4u4xG06Q==}
 
-  node-releases@2.0.27:
-    resolution: {integrity: sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==}
+  node-releases@2.0.36:
+    resolution: {integrity: sha512-TdC8FSgHz8Mwtw9g5L4gR/Sh9XhSP/0DEkQxfEFXOpiul5IiHgHan2VhYYb6agDSfp4KuvltmGApc8HMgUrIkA==}
 
   nypm@0.6.5:
     resolution: {integrity: sha512-K6AJy1GMVyfyMXRVB88700BJqNUkByijGJM8kEHpLdcAt+vSQAVfkWWHYzuRXHSY6xA2sNc5RjTj0p9rE2izVQ==}
@@ -701,8 +701,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.473:
-    resolution: {integrity: sha512-lqj2sgmNdVQWpf6wkPNijfsKcW7I1rf0u/+pZ7HFCg4H8N4d4ryGsYq3DBLa0liegXEmZk1OJC0uZyDOJpnCXA==}
+  proto-tailwindcss-clrs@0.0.474:
+    resolution: {integrity: sha512-3ICkIBMxrV3jc1owzf7u6JLaY0mrjOajYFvLEnWcgymG/KLmjnVW/lc6cVaCOOPvvWe4IZ8WJcVQ68jaMwpwUQ==}
     engines: {node: '>=18'}
 
   rc9@2.1.2:
@@ -753,8 +753,8 @@ packages:
     resolution: {integrity: sha512-MpUEN2OodtUzxvKQl72cUF7RQ5EiHsGvSsVG0ia9c5RbWGL2CI4C7EpPS8UTBIplnlzZiNuV56w+FuNxy3ty2Q==}
     engines: {node: '>=10'}
 
-  svelte@5.53.7:
-    resolution: {integrity: sha512-uxck1KI7JWtlfP3H6HOWi/94soAl23jsGJkBzN2BAWcQng0+lTrRNhxActFqORgnO9BHVd1hKJhG+ljRuIUWfQ==}
+  svelte@5.53.9:
+    resolution: {integrity: sha512-MwDfWsN8qZzeP0jlQsWF4k/4B3csb3IbzCRggF+L/QqY7T8bbKvnChEo1cPZztF51HJQhilDbevWYl2LvXbquA==}
     engines: {node: '>=18'}
 
   tailwindcss@4.2.1:
@@ -1039,12 +1039,12 @@ snapshots:
     dependencies:
       acorn: 8.16.0
 
-  '@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.53.7)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))':
+  '@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.53.9)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
       obug: 2.1.1
-      svelte: 5.53.7
+      svelte: 5.53.9
       vite: 7.3.1(jiti@2.6.1)(yaml@2.8.2)
       vitefu: 1.1.2(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
 
@@ -1069,7 +1069,7 @@ snapshots:
   autoprefixer@10.4.27(postcss@8.5.8):
     dependencies:
       browserslist: 4.28.1
-      caniuse-lite: 1.0.30001776
+      caniuse-lite: 1.0.30001777
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.8
@@ -1082,9 +1082,9 @@ snapshots:
   browserslist@4.28.1:
     dependencies:
       baseline-browser-mapping: 2.10.0
-      caniuse-lite: 1.0.30001776
+      caniuse-lite: 1.0.30001777
       electron-to-chromium: 1.5.307
-      node-releases: 2.0.27
+      node-releases: 2.0.36
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
 
   bumpp@10.4.1:
@@ -1120,7 +1120,7 @@ snapshots:
 
   cac@6.7.14: {}
 
-  caniuse-lite@1.0.30001776: {}
+  caniuse-lite@1.0.30001777: {}
 
   chalk@4.1.2:
     dependencies:
@@ -1261,7 +1261,7 @@ snapshots:
 
   node-fetch-native@1.6.7: {}
 
-  node-releases@2.0.27: {}
+  node-releases@2.0.36: {}
 
   nypm@0.6.5:
     dependencies:
@@ -1301,20 +1301,20 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.7):
+  prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.9):
     dependencies:
       prettier: 3.8.1
-      svelte: 5.53.7
+      svelte: 5.53.9
 
-  prettier-plugin-tailwindcss@0.7.2(prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.7))(prettier@3.8.1):
+  prettier-plugin-tailwindcss@0.7.2(prettier-plugin-svelte@3.5.1(prettier@3.8.1)(svelte@5.53.9))(prettier@3.8.1):
     dependencies:
       prettier: 3.8.1
     optionalDependencies:
-      prettier-plugin-svelte: 3.5.1(prettier@3.8.1)(svelte@5.53.7)
+      prettier-plugin-svelte: 3.5.1(prettier@3.8.1)(svelte@5.53.9)
 
   prettier@3.8.1: {}
 
-  proto-tailwindcss-clrs@0.0.473: {}
+  proto-tailwindcss-clrs@0.0.474: {}
 
   rc9@2.1.2:
     dependencies:
@@ -1384,7 +1384,7 @@ snapshots:
     dependencies:
       has-flag: 4.0.0
 
-  svelte@5.53.7:
+  svelte@5.53.9:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.5.5
