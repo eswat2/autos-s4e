@@ -37,7 +37,7 @@
     "prettier-plugin-svelte": "3.5.1",
     "prettier-plugin-tailwindcss": "0.7.2",
     "proto-tailwindcss-clrs": "0.0.474",
-    "svelte": "5.53.11",
+    "svelte": "5.53.12",
     "tailwindcss": "4.2.1",
     "vite": "8.0.0",
     "yoctocolors": "2.1.2"
