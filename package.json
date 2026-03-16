@@ -28,7 +28,7 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "7.0.0",
     "autoprefixer": "10.4.27",
-    "bumpp": "11.0.0",
+    "bumpp": "11.0.1",
     "concurrently": "9.2.1",
     "fetchql": "3.0.0",
     "only-allow": "1.2.2",
