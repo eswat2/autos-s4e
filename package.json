@@ -39,7 +39,7 @@
     "proto-tailwindcss-clrs": "0.0.482",
     "svelte": "5.55.1",
     "tailwindcss": "4.2.2",
-    "vite": "8.0.3",
+    "vite": "8.0.5",
     "yoctocolors": "2.1.2"
   }
 }
