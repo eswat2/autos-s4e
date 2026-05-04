@@ -9,6 +9,12 @@
   "engines": {
     "node": ">=18"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild", 
+      "proto-tailwindcss-clrs"
+    ]
+  },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
     "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
@@ -32,11 +38,11 @@
     "concurrently": "9.2.1",
     "fetchql": "3.0.0",
     "only-allow": "1.2.2",
-    "postcss": "8.5.13",
+    "postcss": "8.5.14",
     "prettier": "3.8.3",
     "prettier-plugin-svelte": "3.5.1",
     "prettier-plugin-tailwindcss": "0.8.0",
-    "proto-tailwindcss-clrs": "0.0.488",
+    "proto-tailwindcss-clrs": "0.0.489",
     "svelte": "5.55.5",
     "tailwindcss": "4.2.4",
     "vite": "8.0.10",
