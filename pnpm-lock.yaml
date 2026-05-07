@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
-        specifier: 7.1.1
-        version: 7.1.1(svelte@5.55.5)(vite@8.0.11(jiti@2.6.1)(yaml@2.8.4))
+        specifier: 7.1.2
+        version: 7.1.2(svelte@5.55.5)(vite@8.0.11(jiti@2.6.1)(yaml@2.8.4))
       autoprefixer:
         specifier: 10.5.0
         version: 10.5.0(postcss@8.5.14)
@@ -39,8 +39,8 @@ importers:
         specifier: 0.8.0
         version: 0.8.0(prettier-plugin-svelte@3.5.1(prettier@3.8.3)(svelte@5.55.5))(prettier@3.8.3)
       proto-tailwindcss-clrs:
-        specifier: 0.0.489
-        version: 0.0.489
+        specifier: 0.0.490
+        version: 0.0.490
       svelte:
         specifier: 5.55.5
         version: 5.55.5
@@ -196,8 +196,8 @@ packages:
     peerDependencies:
       acorn: ^8.9.0
 
-  '@sveltejs/vite-plugin-svelte@7.1.1':
-    resolution: {integrity: sha512-FOJdbE5pxae68DoTBJ49t1dIA7TSmMHR6CsuJhX90cO/UfrEMHA7KJNUj3WdZuUDJPu4ujqpJ2Tgqd2gTWr6Xg==}
+  '@sveltejs/vite-plugin-svelte@7.1.2':
+    resolution: {integrity: sha512-DrUBA2UXRfDmUX/ZTiEopd3X40yavsJF1FX2RygcuIScHL7o5YX1fMvoYnDhjeJQC4weCOklirpNWlcb2NiSeA==}
     engines: {node: ^20.19 || ^22.12 || >=24}
     peerDependencies:
       svelte: ^5.46.4
@@ -544,8 +544,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.489:
-    resolution: {integrity: sha512-1q2btz0vqCYWBA5bwbwfnZNuxcEuYbMjJvrnXmDX/Le7RMWvI+trQ3eKPWw6SGRWzZ/MkStVdHaoNZxC6Ujs+A==}
+  proto-tailwindcss-clrs@0.0.490:
+    resolution: {integrity: sha512-6d9iBgMSPLR1xqSjyIfdD3M7iKbW6s2EdSzuLKJVzOyLrEERuCY45sOjdMfRiq5wPXn/NqYkxcQKuQhk0UK2kg==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -814,7 +814,7 @@ snapshots:
     dependencies:
       acorn: 8.16.0
 
-  '@sveltejs/vite-plugin-svelte@7.1.1(svelte@5.55.5)(vite@8.0.11(jiti@2.6.1)(yaml@2.8.4))':
+  '@sveltejs/vite-plugin-svelte@7.1.2(svelte@5.55.5)(vite@8.0.11(jiti@2.6.1)(yaml@2.8.4))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
@@ -1046,7 +1046,7 @@ snapshots:
 
   prettier@3.8.3: {}
 
-  proto-tailwindcss-clrs@0.0.489: {}
+  proto-tailwindcss-clrs@0.0.490: {}
 
   quansync@1.0.0: {}
 
