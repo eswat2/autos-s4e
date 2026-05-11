@@ -1,6 +1,7 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+
 allowBuilds:
   esbuild: true
   proto-tailwindcss-clrs: true
-onlyBuiltDependencies:
-  - esbuild
-  - proto-tailwindcss-clrs
