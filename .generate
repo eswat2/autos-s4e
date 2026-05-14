@@ -4,7 +4,7 @@ TARGET=../.generate
 
 if [ -f ${TARGET} ]
 then
-  sh ${TARGET}
+  bash ${TARGET}
 else
   echo "-- skip"
 fi
