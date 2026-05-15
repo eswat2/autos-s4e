@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.1.2
-        version: 7.1.2(svelte@5.55.5)(vite@8.0.13(jiti@2.6.1)(yaml@2.8.4))
+        version: 7.1.2(svelte@5.55.7)(vite@8.0.13(jiti@2.6.1)(yaml@2.8.4))
       autoprefixer:
         specifier: 10.5.0
         version: 10.5.0(postcss@8.5.14)
@@ -34,16 +34,16 @@ importers:
         version: 3.8.3
       prettier-plugin-svelte:
         specifier: 3.5.2
-        version: 3.5.2(prettier@3.8.3)(svelte@5.55.5)
+        version: 3.5.2(prettier@3.8.3)(svelte@5.55.7)
       prettier-plugin-tailwindcss:
         specifier: 0.8.0
-        version: 0.8.0(prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.5))(prettier@3.8.3)
+        version: 0.8.0(prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.7))(prettier@3.8.3)
       proto-tailwindcss-clrs:
-        specifier: 0.0.497
-        version: 0.0.497
+        specifier: 0.0.498
+        version: 0.0.498
       svelte:
-        specifier: 5.55.5
-        version: 5.55.5
+        specifier: 5.55.7
+        version: 5.55.7
       tailwindcss:
         specifier: 4.3.0
         version: 4.3.0
@@ -300,8 +300,8 @@ packages:
     resolution: {integrity: sha512-Btj2BOOO83o3WyH59e8MgXsxEQVcarkUOpEYrubB0urwnN10yQ364rsiByU11nZlqWYZm05i/of7io4mzihBtQ==}
     engines: {node: '>=8'}
 
-  devalue@5.7.1:
-    resolution: {integrity: sha512-MUbZ586EgQqdRnC4yDrlod3BEdyvE4TapGYHMW2CiaW+KkkFmWEFqBUaLltEZCGi0iFXCEjRF0OjF0DV2QHjOA==}
+  devalue@5.8.1:
+    resolution: {integrity: sha512-4CXDYRBGqN+57wVJkuXBYmpAVUSg3L6JAQa/DFqm238G73E1wuyc/JhGQJzN7vUf/CMphYau2zXbfWzDR5aTEw==}
 
   electron-to-chromium@1.5.341:
     resolution: {integrity: sha512-1sZTssferjgDgaqRTc0ieP+ozzpOy7LQTPTtEW3yQFn4+ORdIAZWV5BthXPyHF7YqLvFJCUPhNhdAJQYlYUgiw==}
@@ -544,8 +544,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.497:
-    resolution: {integrity: sha512-6FhUpUGu5StLjwPXMnltMz2k9gjIRo4ykKEX6dwQQ95O8304eVGFLj/oQDQrvT2cXXm+cgfZ7XD0cyVZjecbvA==}
+  proto-tailwindcss-clrs@0.0.498:
+    resolution: {integrity: sha512-x8pUbxuuZOAut3ZTAeTylXR/AL8ZDRcxqL03RxRC4ut2QPuWFvjwUYvB1t7GCq/Cul8pYuYgrCC5wNGrOsGKZA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -592,8 +592,8 @@ packages:
     resolution: {integrity: sha512-MpUEN2OodtUzxvKQl72cUF7RQ5EiHsGvSsVG0ia9c5RbWGL2CI4C7EpPS8UTBIplnlzZiNuV56w+FuNxy3ty2Q==}
     engines: {node: '>=10'}
 
-  svelte@5.55.5:
-    resolution: {integrity: sha512-2uCs/LZ9us+AktdzYJM8OcxQ8qnPS1kpaO7syGT/MgO+6Qr1Ybl+TqPq+97u7PHqmmMlye5ZkoyXONy5mjjAbw==}
+  svelte@5.55.7:
+    resolution: {integrity: sha512-ymI5ykLPwIHW839E053FQbI1G+jnRFJEw3Kv5Y4njixVWywQBx+NUFpkkKyk5LIb36Fg9DVXSYpqiGekLD0hyw==}
     engines: {node: '>=18'}
 
   tailwindcss@4.3.0:
@@ -814,12 +814,12 @@ snapshots:
     dependencies:
       acorn: 8.16.0
 
-  '@sveltejs/vite-plugin-svelte@7.1.2(svelte@5.55.5)(vite@8.0.13(jiti@2.6.1)(yaml@2.8.4))':
+  '@sveltejs/vite-plugin-svelte@7.1.2(svelte@5.55.7)(vite@8.0.13(jiti@2.6.1)(yaml@2.8.4))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
       obug: 2.1.1
-      svelte: 5.55.5
+      svelte: 5.55.7
       vite: 8.0.13(jiti@2.6.1)(yaml@2.8.4)
       vitefu: 1.1.3(vite@8.0.13(jiti@2.6.1)(yaml@2.8.4))
 
@@ -915,7 +915,7 @@ snapshots:
 
   detect-libc@2.1.2: {}
 
-  devalue@5.7.1: {}
+  devalue@5.8.1: {}
 
   electron-to-chromium@1.5.341: {}
 
@@ -1033,20 +1033,20 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.5):
+  prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.7):
     dependencies:
       prettier: 3.8.3
-      svelte: 5.55.5
+      svelte: 5.55.7
 
-  prettier-plugin-tailwindcss@0.8.0(prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.5))(prettier@3.8.3):
+  prettier-plugin-tailwindcss@0.8.0(prettier-plugin-svelte@3.5.2(prettier@3.8.3)(svelte@5.55.7))(prettier@3.8.3):
     dependencies:
       prettier: 3.8.3
     optionalDependencies:
-      prettier-plugin-svelte: 3.5.2(prettier@3.8.3)(svelte@5.55.5)
+      prettier-plugin-svelte: 3.5.2(prettier@3.8.3)(svelte@5.55.7)
 
   prettier@3.8.3: {}
 
-  proto-tailwindcss-clrs@0.0.497: {}
+  proto-tailwindcss-clrs@0.0.498: {}
 
   quansync@1.0.0: {}
 
@@ -1101,7 +1101,7 @@ snapshots:
     dependencies:
       has-flag: 4.0.0
 
-  svelte@5.55.5:
+  svelte@5.55.7:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.5.5
@@ -1112,7 +1112,7 @@ snapshots:
       aria-query: 5.3.1
       axobject-query: 4.1.0
       clsx: 2.1.1
-      devalue: 5.7.1
+      devalue: 5.8.1
       esm-env: 1.2.2
       esrap: 2.2.5
       is-reference: 3.0.3
