@@ -5,3 +5,8 @@ packages:
 allowBuilds:
   'esbuild': true
   'proto-tailwindcss-clrs': true
+
+minimumReleaseAgeExclude:
+  - '@sveltejs/acorn-typescript@1.0.10'
+  - proto-tailwindcss-clrs@0.0.499
+  - svelte@5.55.9
