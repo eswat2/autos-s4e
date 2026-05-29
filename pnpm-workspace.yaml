@@ -5,7 +5,3 @@ packages:
 allowBuilds:
   'esbuild': true
   'proto-tailwindcss-clrs': true
-
-minimumReleaseAgeExclude:
-  - concurrently@10.0.0
-  - svelte@5.55.10
