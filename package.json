@@ -34,7 +34,7 @@
     "only-allow": "1.2.2",
     "postcss": "8.5.15",
     "prettier": "3.8.4",
-    "prettier-plugin-svelte": "4.1.0",
+    "prettier-plugin-svelte": "4.1.1",
     "prettier-plugin-tailwindcss": "0.8.0",
     "proto-tailwindcss-clrs": "0.0.504",
     "svelte": "5.56.3",

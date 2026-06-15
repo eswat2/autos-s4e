@@ -7,4 +7,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
+  - prettier-plugin-svelte@4.1.1
   - proto-tailwindcss-clrs@0.0.504
