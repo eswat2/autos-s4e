@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "7.1.2",
-    "autoprefixer": "10.5.1",
+    "autoprefixer": "10.5.2",
     "bumpp": "11.1.0",
     "concurrently": "10.0.3",
     "fetchql": "3.0.0",
@@ -36,7 +36,7 @@
     "prettier": "3.8.4",
     "prettier-plugin-svelte": "4.1.1",
     "prettier-plugin-tailwindcss": "0.8.0",
-    "proto-tailwindcss-clrs": "0.0.509",
+    "proto-tailwindcss-clrs": "0.0.510",
     "svelte": "5.56.4",
     "tailwindcss": "4.3.1",
     "vite": "8.1.0",

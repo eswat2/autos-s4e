@@ -7,6 +7,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - autoprefixer@10.5.1
-  - proto-tailwindcss-clrs@0.0.509
-  - svelte@5.56.4
+  - autoprefixer@10.5.2
+  - proto-tailwindcss-clrs@0.0.510

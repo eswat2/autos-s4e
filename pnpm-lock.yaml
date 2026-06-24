@@ -12,8 +12,8 @@ importers:
         specifier: 7.1.2
         version: 7.1.2(svelte@5.56.4)(vite@8.1.0(jiti@2.7.0)(yaml@2.9.0))
       autoprefixer:
-        specifier: 10.5.1
-        version: 10.5.1(postcss@8.5.15)
+        specifier: 10.5.2
+        version: 10.5.2(postcss@8.5.15)
       bumpp:
         specifier: 11.1.0
         version: 11.1.0
@@ -39,8 +39,8 @@ importers:
         specifier: 0.8.0
         version: 0.8.0(prettier-plugin-svelte@4.1.1(prettier@3.8.4)(svelte@5.56.4))(prettier@3.8.4)
       proto-tailwindcss-clrs:
-        specifier: 0.0.509
-        version: 0.0.509
+        specifier: 0.0.510
+        version: 0.0.510
       svelte:
         specifier: 5.56.4
         version: 5.56.4
@@ -232,8 +232,8 @@ packages:
     resolution: {integrity: sha512-Z/ZeOgVl7bcSYZ/u/rh0fOpvEpq//LZmdbkXyc7syVzjPAhfOa9ebsdTSjEBDU4vs5nC98Kfduj1uFo0qyET3g==}
     engines: {node: '>= 0.4'}
 
-  autoprefixer@10.5.1:
-    resolution: {integrity: sha512-jwM2pcTuCWUoN70FEvf5XrXyDbUgRURK4FnU8v0jWZZYU/KkVvN9T33mu1sVLFY9JW3kTWzKheEpn6xYLRc/VA==}
+  autoprefixer@10.5.2:
+    resolution: {integrity: sha512-rD5t5DwOjJdmSORcTq64j8MawTC+tbQ+HHqjR4NDumamy/ambn1UJrlKL+KdwujWxMkFjPM3pPHOEA9tl4767Q==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -536,8 +536,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.509:
-    resolution: {integrity: sha512-E0dkeSZ1ffnds9W650qg0uAzAaldiyUFDRUPQHNWwODrlFUIgrMLdkmhRESyBLVupP4lbzV5wc6C5lqz8wb1+Q==}
+  proto-tailwindcss-clrs@0.0.510:
+    resolution: {integrity: sha512-1clboa7lGJ0MtLCEjxP6+EaWgDm3+NLevmQxgyYxjh6ktSt5VkFq0YQ4F4fUZJqvONE37BUbmDaqM2JSLlz+ow==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -826,7 +826,7 @@ snapshots:
 
   aria-query@5.3.1: {}
 
-  autoprefixer@10.5.1(postcss@8.5.15):
+  autoprefixer@10.5.2(postcss@8.5.15):
     dependencies:
       browserslist: 4.28.4
       caniuse-lite: 1.0.30001799
@@ -1017,7 +1017,7 @@ snapshots:
 
   prettier@3.8.4: {}
 
-  proto-tailwindcss-clrs@0.0.509: {}
+  proto-tailwindcss-clrs@0.0.510: {}
 
   quansync@1.0.0: {}
 
