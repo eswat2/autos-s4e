@@ -8,4 +8,5 @@ allowBuilds:
 
 minimumReleaseAgeExclude:
   - autoprefixer@10.5.3
-  - svelte@5.56.5
+  - prettier-plugin-tailwindcss@0.8.1
+  - proto-tailwindcss-clrs@0.0.516
