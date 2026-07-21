@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.2.0
-        version: 7.2.0(svelte@5.56.6)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))
+        version: 7.2.0(svelte@5.56.7)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))
       autoprefixer:
         specifier: 10.5.4
         version: 10.5.4(postcss@8.5.20)
@@ -34,16 +34,16 @@ importers:
         version: 3.9.5
       prettier-plugin-svelte:
         specifier: 4.1.1
-        version: 4.1.1(prettier@3.9.5)(svelte@5.56.6)
+        version: 4.1.1(prettier@3.9.5)(svelte@5.56.7)
       prettier-plugin-tailwindcss:
         specifier: 0.8.1
-        version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.6))(prettier@3.9.5)
+        version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.7))(prettier@3.9.5)
       proto-tailwindcss-clrs:
         specifier: 0.0.521
         version: 0.0.521
       svelte:
-        specifier: 5.56.6
-        version: 5.56.6
+        specifier: 5.56.7
+        version: 5.56.7
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -576,8 +576,8 @@ packages:
     resolution: {integrity: sha512-SS+jx45GF1QjgEXQx4NJZV9ImqmO2NPz5FNsIHrsDjh2YsHnawpan7SNQ1o8NuhrbHZy9AZhIoCUiCeaW/C80g==}
     engines: {node: '>=18'}
 
-  svelte@5.56.6:
-    resolution: {integrity: sha512-p4HDLDogGHKRKCrgckQHNs5PEfXkju6JI5jTywueaKJI5hAdjPohEhRtQ0M1SWC/+TA73SPln+r7srr+7e4nZA==}
+  svelte@5.56.7:
+    resolution: {integrity: sha512-5qERUZX80oQj6XrDMUmD2Uhd/cIpCPDWWKBK3ZHmyRUC9apPyamWM8xMo31mbWsIQxwG2hVoSnOJ/EcnhVkkzQ==}
     engines: {node: '>=18'}
 
   tailwindcss@4.3.3:
@@ -798,12 +798,12 @@ snapshots:
     dependencies:
       acorn: 8.17.0
 
-  '@sveltejs/vite-plugin-svelte@7.2.0(svelte@5.56.6)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))':
+  '@sveltejs/vite-plugin-svelte@7.2.0(svelte@5.56.7)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
       obug: 2.1.4
-      svelte: 5.56.6
+      svelte: 5.56.7
       vite: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
       vitefu: 1.1.3(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))
 
@@ -1004,16 +1004,16 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.6):
+  prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.7):
     dependencies:
       prettier: 3.9.5
-      svelte: 5.56.6
+      svelte: 5.56.7
 
-  prettier-plugin-tailwindcss@0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.6))(prettier@3.9.5):
+  prettier-plugin-tailwindcss@0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.5)(svelte@5.56.7))(prettier@3.9.5):
     dependencies:
       prettier: 3.9.5
     optionalDependencies:
-      prettier-plugin-svelte: 4.1.1(prettier@3.9.5)(svelte@5.56.6)
+      prettier-plugin-svelte: 4.1.1(prettier@3.9.5)(svelte@5.56.7)
 
   prettier@3.9.5: {}
 
@@ -1064,7 +1064,7 @@ snapshots:
 
   supports-color@10.2.2: {}
 
-  svelte@5.56.6:
+  svelte@5.56.7:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.5.5
