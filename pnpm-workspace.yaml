@@ -7,5 +7,4 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - postcss@8.5.22
-  - proto-tailwindcss-clrs@0.0.523
+  - proto-tailwindcss-clrs@0.0.524
