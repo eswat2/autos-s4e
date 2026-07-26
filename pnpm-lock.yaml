@@ -39,8 +39,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.8))(prettier@3.9.6)
       proto-tailwindcss-clrs:
-        specifier: 0.0.526
-        version: 0.0.526
+        specifier: 0.0.527
+        version: 0.0.527
       svelte:
         specifier: 5.56.8
         version: 5.56.8
@@ -51,8 +51,8 @@ importers:
         specifier: 8.1.5
         version: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
       yoctocolors:
-        specifier: 2.1.2
-        version: 2.1.2
+        specifier: 2.2.0
+        version: 2.2.0
 
 packages:
 
@@ -243,8 +243,8 @@ packages:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
     engines: {node: '>= 0.4'}
 
-  baseline-browser-mapping@2.11.1:
-    resolution: {integrity: sha512-HYXq73DDpCtNzOmrFsm9eSwCvWCql0RzqjpDzXN9EadiLJ4DNat0nsZ/Bzmy+Ud12mb4/zKDY0cQ805ZzN+i0A==}
+  baseline-browser-mapping@2.11.3:
+    resolution: {integrity: sha512-sbT0Ui/CZwyAyy7icT1Gw5P1LKRlFaHwaF6tDCW5YHq2X5SeeZFphBuIagopSfwSSZq3sQcbmEL072yphxm7ew==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -536,8 +536,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.526:
-    resolution: {integrity: sha512-O48An5tO7MsbLlpzSjqX/WsNzBP7leWrCzMFqlHTlbg3Ok81Oam9VxEY8oK0rXGD4yFMGWNOQSojDTrueeEOtQ==}
+  proto-tailwindcss-clrs@0.0.527:
+    resolution: {integrity: sha512-0wXlWUXLr0Ec/cK2dBp2Ioq+cCtEZhvy9x0K8z9+BbpujiGDsvRS7pe1EnubgKlRHDRCAk7PdRRh7Dec3x2FYw==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -685,8 +685,8 @@ packages:
     resolution: {integrity: sha512-4UEqdc2RYGHZc7Doyqkrqiln3p9X2DZVxaGbwhn2pi7MrRagKaOcIKe8L3OxYcbhXLgLFUS3zAYuQjKBQgmuNg==}
     engines: {node: ^20.19.0 || ^22.12.0 || >=23}
 
-  yoctocolors@2.1.2:
-    resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
+  yoctocolors@2.2.0:
+    resolution: {integrity: sha512-xYqdZFUK/VYazNl/oCDYN+3WloWQwMfZxBoiNt6qNyk+xfOdi598muWE42rNZFp1kNOiqW936q5RhUdnpqElSg==}
     engines: {node: '>=18'}
 
   zimmerframe@1.1.4:
@@ -836,11 +836,11 @@ snapshots:
 
   axobject-query@4.1.0: {}
 
-  baseline-browser-mapping@2.11.1: {}
+  baseline-browser-mapping@2.11.3: {}
 
   browserslist@4.28.7:
     dependencies:
-      baseline-browser-mapping: 2.11.1
+      baseline-browser-mapping: 2.11.3
       caniuse-lite: 1.0.30001806
       electron-to-chromium: 1.5.396
       node-releases: 2.0.51
@@ -1016,7 +1016,7 @@ snapshots:
 
   prettier@3.9.6: {}
 
-  proto-tailwindcss-clrs@0.0.526: {}
+  proto-tailwindcss-clrs@0.0.527: {}
 
   quansync@1.0.0: {}
 
@@ -1155,6 +1155,6 @@ snapshots:
       y18n: 5.0.8
       yargs-parser: 22.0.0
 
-  yoctocolors@2.1.2: {}
+  yoctocolors@2.2.0: {}
 
   zimmerframe@1.1.4: {}

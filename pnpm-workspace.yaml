@@ -5,3 +5,7 @@ packages:
 allowBuilds:
   'esbuild': true
   'proto-tailwindcss-clrs': true
+
+minimumReleaseAgeExclude:
+  - proto-tailwindcss-clrs@0.0.527
+  - yoctocolors@2.2.0
