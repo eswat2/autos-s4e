@@ -7,5 +7,6 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - proto-tailwindcss-clrs@0.0.527
-  - yoctocolors@2.2.0
+  - bumpp@12.1.0
+  - postcss@8.5.24
+  - proto-tailwindcss-clrs@0.0.528
