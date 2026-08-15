@@ -29,7 +29,7 @@
     "@sveltejs/vite-plugin-svelte": "7.3.0",
     "autoprefixer": "10.5.4",
     "bumpp": "12.2.1",
-    "concurrently": "10.0.4",
+    "concurrently": "10.0.5",
     "fetchql": "3.0.0",
     "only-allow": "1.2.2",
     "postcss": "8.5.26",
