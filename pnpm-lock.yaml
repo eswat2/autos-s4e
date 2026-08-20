@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.3.0
-        version: 7.3.0(svelte@5.56.9)(vite@8.2.2(jiti@2.7.0)(yaml@2.9.0))
+        version: 7.3.0(svelte@5.56.10)(vite@8.2.2(jiti@2.7.0)(yaml@2.9.0))
       autoprefixer:
         specifier: 10.5.4
         version: 10.5.4(postcss@8.5.26)
@@ -34,16 +34,16 @@ importers:
         version: 3.9.6
       prettier-plugin-svelte:
         specifier: 4.1.1
-        version: 4.1.1(prettier@3.9.6)(svelte@5.56.9)
+        version: 4.1.1(prettier@3.9.6)(svelte@5.56.10)
       prettier-plugin-tailwindcss:
         specifier: 0.8.1
-        version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.9))(prettier@3.9.6)
+        version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.10))(prettier@3.9.6)
       proto-tailwindcss-clrs:
-        specifier: 0.0.535
-        version: 0.0.535
+        specifier: 0.0.536
+        version: 0.0.536
       svelte:
-        specifier: 5.56.9
-        version: 5.56.9
+        specifier: 5.56.10
+        version: 5.56.10
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -522,8 +522,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.535:
-    resolution: {integrity: sha512-cz84xQXsVTJPRfHOfp2bxLtAZsdA1CHVzEGI1AXvK9X/b0rBkmQkxrVo6GfgHJtLM3KBLryqUZz3s33JDgkFpw==}
+  proto-tailwindcss-clrs@0.0.536:
+    resolution: {integrity: sha512-KWPpHvr7580qtPIJE09zfdzBAJjKweRMd8qAT1G0stp3ZZjGZvbO38LH4YGSJJc4PfO1mLt8bc/iUPRt7v7fYA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -557,8 +557,8 @@ packages:
     resolution: {integrity: sha512-SS+jx45GF1QjgEXQx4NJZV9ImqmO2NPz5FNsIHrsDjh2YsHnawpan7SNQ1o8NuhrbHZy9AZhIoCUiCeaW/C80g==}
     engines: {node: '>=18'}
 
-  svelte@5.56.9:
-    resolution: {integrity: sha512-VT8kSnlEg8069w7AiCcAk3Yf5xvMnrGTagVOmU/OpOLHaHnNqXhWZCH/4EVga/bT/HtWhvE6/fHrXLErx7OnJA==}
+  svelte@5.56.10:
+    resolution: {integrity: sha512-Lcxbj8I/KAbpY+VjtY4ENQBV0dDCipfGAhqb51XQZ67CIQqXgsv/8dPkbILaj4Fb6/b6JAEM/PIVbILXgDQy2g==}
     engines: {node: '>=18'}
 
   tailwindcss@4.3.3:
@@ -756,12 +756,12 @@ snapshots:
     dependencies:
       acorn: 8.18.0
 
-  '@sveltejs/vite-plugin-svelte@7.3.0(svelte@5.56.9)(vite@8.2.2(jiti@2.7.0)(yaml@2.9.0))':
+  '@sveltejs/vite-plugin-svelte@7.3.0(svelte@5.56.10)(vite@8.2.2(jiti@2.7.0)(yaml@2.9.0))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 1.2.1
       obug: 2.1.4
-      svelte: 5.56.9
+      svelte: 5.56.10
       vite: 8.2.2(jiti@2.7.0)(yaml@2.9.0)
       vitefu: 1.1.3(vite@8.2.2(jiti@2.7.0)(yaml@2.9.0))
 
@@ -961,20 +961,20 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.9):
+  prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.10):
     dependencies:
       prettier: 3.9.6
-      svelte: 5.56.9
+      svelte: 5.56.10
 
-  prettier-plugin-tailwindcss@0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.9))(prettier@3.9.6):
+  prettier-plugin-tailwindcss@0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.56.10))(prettier@3.9.6):
     dependencies:
       prettier: 3.9.6
     optionalDependencies:
-      prettier-plugin-svelte: 4.1.1(prettier@3.9.6)(svelte@5.56.9)
+      prettier-plugin-svelte: 4.1.1(prettier@3.9.6)(svelte@5.56.10)
 
   prettier@3.9.6: {}
 
-  proto-tailwindcss-clrs@0.0.535: {}
+  proto-tailwindcss-clrs@0.0.536: {}
 
   quansync@1.0.0: {}
 
@@ -1019,7 +1019,7 @@ snapshots:
 
   supports-color@10.2.2: {}
 
-  svelte@5.56.9:
+  svelte@5.56.10:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.5.5
