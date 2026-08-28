@@ -8,3 +8,4 @@ allowBuilds:
 
 minimumReleaseAgeExclude:
   - proto-tailwindcss-clrs@0.0.540
+  - svelte@5.57.0
