@@ -168,7 +168,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.3.0
-        version: 7.3.0(svelte@5.57.0)(vite@8.3.0(jiti@2.7.0)(yaml@2.9.0))
+        version: 7.3.0(svelte@5.57.0)(vite@8.3.0(jiti@2.7.0)(yaml@2.9.1))
       autoprefixer:
         specifier: 10.6.0
         version: 10.6.0(postcss@8.5.28)
@@ -197,8 +197,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.6)(svelte@5.57.0))(prettier@3.9.6)
       proto-tailwindcss-clrs:
-        specifier: 0.0.547
-        version: 0.0.547
+        specifier: 0.0.548
+        version: 0.0.548
       svelte:
         specifier: 5.57.0
         version: 5.57.0
@@ -207,7 +207,7 @@ importers:
         version: 4.3.3
       vite:
         specifier: 8.3.0
-        version: 8.3.0(jiti@2.7.0)(yaml@2.9.0)
+        version: 8.3.0(jiti@2.7.0)(yaml@2.9.1)
       yoctocolors:
         specifier: 2.2.0
         version: 2.2.0
@@ -381,8 +381,8 @@ packages:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
     engines: {node: '>= 0.4'}
 
-  baseline-browser-mapping@2.11.22:
-    resolution: {integrity: sha512-pWc4w51fBFd7mav43/zKRC+RI6f4yfzQoVlfvE8dECePyfkn1bzLp01Fj0QACcyCZyFhiEMyD2qScfKRWgWibA==}
+  baseline-browser-mapping@2.11.23:
+    resolution: {integrity: sha512-le521dGVfxM7yRX0EikCoSz+rOK+hHzdDt/E7mG1jOJB/6WAAUuwVroLwaB7ApaUsz5Q0kFlDXLSA9MheUIfRQ==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -677,8 +677,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.547:
-    resolution: {integrity: sha512-vGUS7UJNnTQKFxdqUyizJpE/azyIOCjYN/3q6FPOlTRI5jhIDcfj5XuIsOEcIOaqOLgcYvOGuFQu2pEZI/L/wQ==}
+  proto-tailwindcss-clrs@0.0.548:
+    resolution: {integrity: sha512-ayUfvjYKClMfbRXa3xajdrBljTK2eOYWAa9auLSXp0mHsHbkjljY6TlePQgUEgbIUqSf+SqLHLKsRdcK/Mi+UA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -813,8 +813,8 @@ packages:
     resolution: {integrity: sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA==}
     engines: {node: '>=10'}
 
-  yaml@2.9.0:
-    resolution: {integrity: sha512-2AvhNX3mb8zd6Zy7INTtSpl1F15HW6Wnqj0srWlkKLcpYl/gMIMJiyuGq2KeI2YFxUPjdlB+3Lc10seMLtL4cA==}
+  yaml@2.9.1:
+    resolution: {integrity: sha512-3NxN8+78OdzbT7C/WjGsyfPAtJaN3FNDsWxv7Y7mcDsT/oOmgW8BpyQQFFBnvZE3j9Y2Sdz1ULFLezL7Eb2yFw==}
     engines: {node: '>= 14.6'}
     hasBin: true
 
@@ -911,14 +911,14 @@ snapshots:
     dependencies:
       acorn: 8.18.0
 
-  '@sveltejs/vite-plugin-svelte@7.3.0(svelte@5.57.0)(vite@8.3.0(jiti@2.7.0)(yaml@2.9.0))':
+  '@sveltejs/vite-plugin-svelte@7.3.0(svelte@5.57.0)(vite@8.3.0(jiti@2.7.0)(yaml@2.9.1))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 1.3.1
       obug: 2.2.1
       svelte: 5.57.0
-      vite: 8.3.0(jiti@2.7.0)(yaml@2.9.0)
-      vitefu: 1.1.3(vite@8.3.0(jiti@2.7.0)(yaml@2.9.0))
+      vite: 8.3.0(jiti@2.7.0)(yaml@2.9.1)
+      vitefu: 1.1.3(vite@8.3.0(jiti@2.7.0)(yaml@2.9.1))
 
   '@types/estree@1.0.9': {}
 
@@ -943,11 +943,11 @@ snapshots:
 
   axobject-query@4.1.0: {}
 
-  baseline-browser-mapping@2.11.22: {}
+  baseline-browser-mapping@2.11.23: {}
 
   browserslist@4.28.9:
     dependencies:
-      baseline-browser-mapping: 2.11.22
+      baseline-browser-mapping: 2.11.23
       caniuse-lite: 1.0.30001810
       electron-to-chromium: 1.5.427
       node-releases: 2.0.55
@@ -963,7 +963,7 @@ snapshots:
       tinyglobby: 0.2.17
       unconfig: 7.5.0
       verkit: 0.4.0
-      yaml: 2.9.0
+      yaml: 2.9.1
 
   cac@7.0.0: {}
 
@@ -1127,7 +1127,7 @@ snapshots:
 
   prettier@3.9.6: {}
 
-  proto-tailwindcss-clrs@0.0.547: {}
+  proto-tailwindcss-clrs@0.0.548: {}
 
   quansync@1.0.0: {}
 
@@ -1226,7 +1226,7 @@ snapshots:
 
   verkit@0.4.0: {}
 
-  vite@8.3.0(jiti@2.7.0)(yaml@2.9.0):
+  vite@8.3.0(jiti@2.7.0)(yaml@2.9.1):
     dependencies:
       lightningcss: 1.33.0
       picomatch: 4.0.7
@@ -1236,11 +1236,11 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
       jiti: 2.7.0
-      yaml: 2.9.0
+      yaml: 2.9.1
 
-  vitefu@1.1.3(vite@8.3.0(jiti@2.7.0)(yaml@2.9.0)):
+  vitefu@1.1.3(vite@8.3.0(jiti@2.7.0)(yaml@2.9.1)):
     optionalDependencies:
-      vite: 8.3.0(jiti@2.7.0)(yaml@2.9.0)
+      vite: 8.3.0(jiti@2.7.0)(yaml@2.9.1)
 
   which-pm-runs@1.1.0: {}
 
@@ -1252,7 +1252,7 @@ snapshots:
 
   y18n@5.0.8: {}
 
-  yaml@2.9.0: {}
+  yaml@2.9.1: {}
 
   yargs-parser@22.0.0: {}
 
