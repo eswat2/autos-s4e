@@ -33,7 +33,7 @@
     "fetchql": "3.0.0",
     "only-allow": "1.2.2",
     "postcss": "8.5.28",
-    "prettier": "3.9.7",
+    "prettier": "3.9.8",
     "prettier-plugin-svelte": "4.1.1",
     "prettier-plugin-tailwindcss": "0.8.1",
     "proto-tailwindcss-clrs": "0.0.549",
