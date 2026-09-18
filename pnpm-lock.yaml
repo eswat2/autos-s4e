@@ -197,8 +197,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.8)(svelte@5.57.0))(prettier@3.9.8)
       proto-tailwindcss-clrs:
-        specifier: 0.0.549
-        version: 0.0.549
+        specifier: 0.0.550
+        version: 0.0.550
       svelte:
         specifier: 5.57.0
         version: 5.57.0
@@ -479,8 +479,8 @@ packages:
     resolution: {integrity: sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==}
     engines: {node: 6.* || 8.* || >= 10.*}
 
-  get-east-asian-width@1.6.0:
-    resolution: {integrity: sha512-QRbvDIbx6YklUe6RxeTeleMR0yv3cYH6PsPZHcnVn7xv7zO1BHN8r0XETu8n6Ye3Q+ahtSarc3WgtNWmehIBfA==}
+  get-east-asian-width@1.7.0:
+    resolution: {integrity: sha512-XjH1AECxf0giL2V1aU8vKyRR2ppRUb5c0EvT7zuJTokQ74bNo52zOtghqdWIqrhUD79fo3x0WfKZdOqxF6LG1Q==}
     engines: {node: '>=18'}
 
   is-reference@3.0.3:
@@ -581,8 +581,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  node-releases@2.0.55:
-    resolution: {integrity: sha512-mIrE/Cw9y+9Au6dS5vDKDhQza9YvG6w+ZrS6X+ZzA7yFW/soAeaups4Qzn1bL6g5FVy8WtP79+0j82oPIbqRjQ==}
+  node-releases@2.0.56:
+    resolution: {integrity: sha512-x0InOIyzgdk+eyaWaRJFH5snEtiImgBgblZ2CyPrLmqqcuMQkEvcDPHbzqbD8eDsSeJbVOjn+crzyzHaM4D+/A==}
     engines: {node: '>=18'}
 
   obug@2.2.1:
@@ -677,8 +677,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.549:
-    resolution: {integrity: sha512-gpd5IDgnOS2YZZCrBc2S9/oiib7q3rcUlkM/vmXt7xeZxfZAmLk2jy070+SvprHKVLvxxEdK8IOsbllNNBdvJQ==}
+  proto-tailwindcss-clrs@0.0.550:
+    resolution: {integrity: sha512-bAT2wdTroViTvbXBqNEJQmvndbeeP8zMzmP6w6PBecQeFTFhY574VgMil481N3AgnVPD04Gw2gZLQBCAbTdy6w==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -950,7 +950,7 @@ snapshots:
       baseline-browser-mapping: 2.11.24
       caniuse-lite: 1.0.30001810
       electron-to-chromium: 1.5.430
-      node-releases: 2.0.55
+      node-releases: 2.0.56
       update-browserslist-db: 1.3.3(browserslist@4.29.0)
 
   bumpp@12.3.0:
@@ -1021,7 +1021,7 @@ snapshots:
 
   get-caller-file@2.0.5: {}
 
-  get-east-asian-width@1.6.0: {}
+  get-east-asian-width@1.7.0: {}
 
   is-reference@3.0.3:
     dependencies:
@@ -1092,7 +1092,7 @@ snapshots:
 
   nanoid@3.3.19: {}
 
-  node-releases@2.0.55: {}
+  node-releases@2.0.56: {}
 
   obug@2.2.1: {}
 
@@ -1127,7 +1127,7 @@ snapshots:
 
   prettier@3.9.8: {}
 
-  proto-tailwindcss-clrs@0.0.549: {}
+  proto-tailwindcss-clrs@0.0.550: {}
 
   quansync@1.0.0: {}
 
@@ -1163,7 +1163,7 @@ snapshots:
   string-width@7.2.0:
     dependencies:
       emoji-regex: 10.6.0
-      get-east-asian-width: 1.6.0
+      get-east-asian-width: 1.7.0
       strip-ansi: 7.2.0
 
   strip-ansi@7.2.0:
