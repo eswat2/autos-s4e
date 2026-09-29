@@ -197,8 +197,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.9)(svelte@5.57.1))(prettier@3.9.9)
       proto-tailwindcss-clrs:
-        specifier: 0.0.554
-        version: 0.0.554
+        specifier: 0.0.555
+        version: 0.0.555
       svelte:
         specifier: 5.57.1
         version: 5.57.1
@@ -677,8 +677,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.554:
-    resolution: {integrity: sha512-6SU8pQc0MPKiNmwT4P9TE1K/tIEfAk4uzQ+W/Nkb04y9v49xk/Xcj++b/MWquk3YL5Dkn5fp1XhsuEaXN5CDcQ==}
+  proto-tailwindcss-clrs@0.0.555:
+    resolution: {integrity: sha512-M99ugGwN5+gGvrHHdZsCzWmVFBW1DkWywX6rHugklQvjyPJ9NT6+fGZOcgLcry4pYeQ6wDQ9dMyFW3bBx8pIqQ==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1127,7 +1127,7 @@ snapshots:
 
   prettier@3.9.9: {}
 
-  proto-tailwindcss-clrs@0.0.554: {}
+  proto-tailwindcss-clrs@0.0.555: {}
 
   quansync@1.0.0: {}
 
