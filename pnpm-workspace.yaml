@@ -7,5 +7,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - prettier@3.9.10
-  - proto-tailwindcss-clrs@0.0.562
+  - postcss@8.5.30
+  - proto-tailwindcss-clrs@0.0.563
