@@ -5,3 +5,6 @@ packages:
 allowBuilds:
   'esbuild': true
   'proto-tailwindcss-clrs': true
+
+minimumReleaseAgeExclude:
+  - proto-tailwindcss-clrs@0.0.569

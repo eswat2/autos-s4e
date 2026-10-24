@@ -197,8 +197,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier-plugin-svelte@4.1.1(prettier@3.9.10)(svelte@5.57.2))(prettier@3.9.10)
       proto-tailwindcss-clrs:
-        specifier: 0.0.568
-        version: 0.0.568
+        specifier: 0.0.569
+        version: 0.0.569
       svelte:
         specifier: 5.57.2
         version: 5.57.2
@@ -381,8 +381,8 @@ packages:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
     engines: {node: '>= 0.4'}
 
-  baseline-browser-mapping@2.11.30:
-    resolution: {integrity: sha512-YJs6Pz17RMNv8HoyKREtCY38E3BV1nPkWVmIb+XN1uHC1Vqt3KZCH/uJH9ZKRoiKb/icZ6tvehyee6RZNbFfRA==}
+  baseline-browser-mapping@2.11.31:
+    resolution: {integrity: sha512-b0k7wXlWjpuL/Uxb/pYlpjY0ej5BjAmurtPUk3eRGuloI4yjK32m8TiKUQ81l1ptcLjKS/KH2+uqIolZti1x4Q==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -677,8 +677,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.568:
-    resolution: {integrity: sha512-vp0wR6xwxttJCLv8wRgqAqDsgF/2lQzw9Al0UWLj9hU9GmJalsakdNRZ1cz1oCzsh4muyhrVckMyqy7XJBhDjw==}
+  proto-tailwindcss-clrs@0.0.569:
+    resolution: {integrity: sha512-2dhKDbhleja9Vq/pjuIG0GRh37hvIvxpUher2grjl3xVfexwEVj64FDhgL1h3UW7J4bQoLuifxIOcn7865hrRA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -943,11 +943,11 @@ snapshots:
 
   axobject-query@4.1.0: {}
 
-  baseline-browser-mapping@2.11.30: {}
+  baseline-browser-mapping@2.11.31: {}
 
   browserslist@4.29.4:
     dependencies:
-      baseline-browser-mapping: 2.11.30
+      baseline-browser-mapping: 2.11.31
       caniuse-lite: 1.0.30001819
       electron-to-chromium: 1.5.463
       node-releases: 2.0.60
@@ -1127,7 +1127,7 @@ snapshots:
 
   prettier@3.9.10: {}
 
-  proto-tailwindcss-clrs@0.0.568: {}
+  proto-tailwindcss-clrs@0.0.569: {}
 
   quansync@1.0.0: {}
 
