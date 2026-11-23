@@ -8,4 +8,4 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - proto-tailwindcss-clrs@0.0.584
+  - '@sveltejs/vite-plugin-svelte@7.3.2'
